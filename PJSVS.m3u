@@ -506,7 +506,11 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-130 tvg-logo="" group-title="Test",Nat Geo
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-130 tvg-logo="" group-title="Test",Hbo
+#EXTINF:-130 tvg-logo="" group-title="Test",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
+#EXTINF:-130 tvg-logo="" group-title="Test",Fox Sports
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=@31agust
 
+#EXTINF:-130 tvg-logo="" group-title="Test",Star Vijay
+https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8
