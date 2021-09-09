@@ -497,11 +497,16 @@ http://clientportal.link:80/BennyAnd/tIsRSa502/10175
 #EXTINF:-1 tvg-id="9693333" tvg-logo="" group-title="Test",Polimer Youtube
 https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
 
-#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Gazi TV
-http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Test",Astro cricket
+http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 
-#EXTINF:-130 tvg-logo="" group-title="SPORTS",Sony Six
-http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
+#EXTINF:-130 tvg-logo="" group-title="Test",Animla Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-http://tv.aliflailabd.com:8989/star-sports1/index.m3u8
+#EXTINF:-130 tvg-logo="" group-title="Test",Nat Geo
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Hbo
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+
