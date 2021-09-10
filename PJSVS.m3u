@@ -519,106 +519,101 @@ https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8
 
 
 
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNXT HD PLUS", SUN TV HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-tv-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/sun-news-white.png" group-title="SunNXT HD PLUS", SUN NEWS
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-news&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SunNXT HD PLUS", KTV HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=ktv-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SunNXT HD PLUS", SUN MUSIC HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-music-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_4adabbae-d9c8-47ac-8773-dc790a378228.jpg" group-title="SunNXT HD PLUS", SUN LIFE
+https://mhdtvapp.xyz/yupp/yupp.php?c=sun-life&e=.m3u8
+#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/adithya-tv-white.png" group-title="SunNXT HD PLUS", Adithya TV
+https://mhdtvapp.xyz/yupp/yupp.php?c=adithya-tv&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/14019/300x300_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="SunNXT HD PLUS", GEMINI TV HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-tv-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26570/300x300_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="SunNXT HD PLUS", GEMINI MOVIES HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-movies-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="SunNXT HD PLUS", GEMINI MUSIC HD
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/9027/300x300_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="SunNXT HD PLUS", GEMINI COMEDY
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-comedy&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="SunNXT HD PLUS", GEMINI LIFE
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Akaram Galatta" tvg-logo="" group-title="INDIAN",IN| Tamil_Akaram Galatta
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15662
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Akaram Mix" tvg-logo="" group-title="INDIAN",IN| Tamil_Akaram Mix
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15661
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_akaramtv" tvg-logo="" group-title="INDIAN",IN| Tamil_akaramtv
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15660
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Angel Tv HD (Europe)" tvg-logo="" group-title="INDIAN",IN| Tamil_Angel Tv HD (Europe)
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15659
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Angel Tv HD (IN)" tvg-logo="" group-title="INDIAN",IN| Tamil_Angel Tv HD (IN)
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15658
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Angel Tv HD (USA)" tvg-logo="" group-title="INDIAN",IN| Tamil_Angel Tv HD (USA)
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15657
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Captain TV" tvg-logo="" group-title="INDIAN",IN| Tamil_Captain TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15656
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Captain_News HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Captain_News HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15655
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Colors Tamil HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Colors Tamil HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15654
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_CSK TV HD" tvg-logo="" group-title="INDIAN",IN| Tamil_CSK TV HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15653
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_DD Podhigai" tvg-logo="" group-title="INDIAN",IN| Tamil_DD Podhigai
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15652
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_EETV HD" tvg-logo="" group-title="INDIAN",IN| Tamil_EETV HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15651
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Ibc Bakthi HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Ibc Bakthi HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15650
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_ibc canada HD" tvg-logo="" group-title="INDIAN",IN| Tamil_ibc canada HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15649
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_IBC Comedy" tvg-logo="" group-title="INDIAN",IN| Tamil_IBC Comedy
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15648
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Ibc Music HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Ibc Music HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15647
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Ibc Siluvai HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Ibc Siluvai HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15646
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_IBC Tamil HD" tvg-logo="" group-title="INDIAN",IN| Tamil_IBC Tamil HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15645
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Jaya TV" tvg-logo="" group-title="INDIAN",IN| Tamil_Jaya TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15644
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Kairali News HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Kairali News HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15643
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Kalaignar TV News" tvg-logo="" group-title="INDIAN",IN| Tamil_Kalaignar TV News
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15642
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Ktv HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Ktv HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15641
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Lotus News HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Lotus News HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15640
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_madha TV (Spirtual)" tvg-logo="" group-title="INDIAN",IN| Tamil_madha TV (Spirtual)
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15639
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Makkal TV HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Makkal TV HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15638
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Meenakshi TV" tvg-logo="" group-title="INDIAN",IN| Tamil_Meenakshi TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15637
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_MURASU TV" tvg-logo="" group-title="INDIAN",IN| Tamil_MURASU TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15636
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_News 18 Tamil Nadu HD" tvg-logo="" group-title="INDIAN",IN| Tamil_News 18 Tamil Nadu HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15635
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_News7 Tamil HD" tvg-logo="" group-title="INDIAN",IN| Tamil_News7 Tamil HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15634
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_NewsJ HD" tvg-logo="" group-title="INDIAN",IN| Tamil_NewsJ HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15633
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Palaar TV" tvg-logo="" group-title="INDIAN",IN| Tamil_Palaar TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15632
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_ Polimer News" tvg-logo="" group-title="INDIAN",IN| Tamil_ Polimer News
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15631
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_ Puthuyugam TV" tvg-logo="" group-title="INDIAN",IN| Tamil_ Puthuyugam TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15630
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Peppers TV" tvg-logo="" group-title="INDIAN",IN| Tamil_Peppers TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15629
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Puthiyathalaimurai TV HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Puthiyathalaimurai TV HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15628
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Raj Digital Plus" tvg-logo="" group-title="INDIAN",IN| Tamil_Raj Digital Plus
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15627
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Raj Musix (Tamil)" tvg-logo="" group-title="INDIAN",IN| Tamil_Raj Musix (Tamil)
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15626
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Raj TV HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Raj TV HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15625
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_SD Media" tvg-logo="" group-title="INDIAN",IN| Tamil_SD Media
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15624
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Sigaram TV" tvg-logo="" group-title="INDIAN",IN| Tamil_Sigaram TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15623
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Star Vijay HD (Hotstar)" tvg-logo="" group-title="INDIAN",IN| Tamil_Star Vijay HD (Hotstar)
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15622
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Star Vijay INDIA FHD (VIP)" tvg-logo="" group-title="INDIAN",IN| Tamil_Star Vijay INDIA FHD (VIP)
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15621
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Star Vijya HD (Vip)" tvg-logo="" group-title="INDIAN",IN| Tamil_Star Vijya HD (Vip)
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15620
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_SUNTV HD" tvg-logo="" group-title="INDIAN",IN| Tamil_SUNTV HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15619
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Sun_News" tvg-logo="" group-title="INDIAN",IN| Tamil_Sun_News
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15618
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Tamil Business TV" tvg-logo="" group-title="INDIAN",IN| Tamil_Tamil Business TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15617
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Tamilvision HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Tamilvision HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15616
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Tet HD" tvg-logo="" group-title="INDIAN",IN| Tamil_Tet HD
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15615
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Vanavil Plus" tvg-logo="" group-title="INDIAN",IN| Tamil_Vanavil Plus
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15614
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_Vasantham TV" tvg-logo="" group-title="INDIAN",IN| Tamil_Vasantham TV
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15613
-#EXTINF:-1 tvg-id="" tvg-name="IN| Tamil_ Zee Tamil HD (Usa)" tvg-logo="" group-title="INDIAN",IN| Tamil_ Zee Tamil HD (Usa)
-http://nocables.live:8080/davehobnob3i/z697wakm1h/15612
+
+#EXTINF: -1 tvg-name="VIP IN: Tamil:JAYA TV HD" group-title="INDIAN", VIP IN: Tamil:JAYA TV HD
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692848
+#EXTINF: -1 tvg-name="VIP IN: Tamil:Sun tv HD" group-title="INDIAN", VIP IN: Tamil:Sun tv HD
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692849
+#EXTINF: -1 tvg-name="IN: WILLOW CRICKET HD" group-title="INDIAN", IN: WILLOW CRICKET HD
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692850
+#EXTINF: -1 tvg-name="IN: Ten Sports HD" group-title="INDIAN", IN: Ten Sports HD
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692851
+#EXTINF: -1 tvg-name="IN: TEN ACTION" group-title="INDIAN", IN: TEN ACTION
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692852
+#EXTINF: -1 tvg-name="IN : Tamil | WIN TV" group-title="INDIAN", IN : Tamil | WIN TV
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692853
+#EXTINF: -1 tvg-name="IN : Tamil | VIJAY HD" group-title="INDIAN", IN : Tamil | VIJAY HD
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692854
+#EXTINF: -1 tvg-name="IN : Tamil | SUN TV US" group-title="INDIAN", IN : Tamil | SUN TV US
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692855
+#EXTINF: -1 tvg-name="IN : Tamil | SUN TV INDIA" group-title="INDIAN", IN : Tamil | SUN TV INDIA
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692856
+#EXTINF: -1 tvg-name="IN : Tamil | SUN NEWS" group-title="INDIAN", IN : Tamil | SUN NEWS
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692857
+#EXTINF: -1 tvg-name="IN : Tamil | SUN MUSIC" group-title="INDIAN", IN : Tamil | SUN MUSIC
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692858
+#EXTINF: -1 tvg-name="IN : Tamil | SUN LIFE" group-title="INDIAN", IN : Tamil | SUN LIFE
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692859
+#EXTINF: -1 tvg-name="IN : Tamil | STAR VIJAY UK" group-title="INDIAN", IN : Tamil | STAR VIJAY UK
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692860
+#EXTINF: -1 tvg-name="IN : Tamil | SEITHIGAL" group-title="INDIAN", IN : Tamil | SEITHIGAL
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692861
+#EXTINF: -1 tvg-name="IN : Tamil | VASANTH TV" group-title="INDIAN", IN : Tamil | VASANTH TV
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692862
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ TV" group-title="INDIAN", IN : Tamil | RAJ TV
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692863
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ MUSIX" group-title="INDIAN", IN : Tamil | RAJ MUSIX
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692864
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS US" group-title="INDIAN", IN : Tamil | RAJ DIGITAL PLUS US
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692865
+#EXTINF: -1 tvg-name="IN : Tamil | RAJ DIGITAL PLUS" group-title="INDIAN", IN : Tamil | RAJ DIGITAL PLUS
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692866
+#EXTINF: -1 tvg-name="IN : Tamil | PUTHUYUGAM TV" group-title="INDIAN", IN : Tamil | PUTHUYUGAM TV
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692867
+#EXTINF: -1 tvg-name="IN : Tamil | PUTHIYA THALAIMURAI" group-title="INDIAN", IN : Tamil | PUTHIYA THALAIMURAI
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692868
+#EXTINF: -1 tvg-name="IN : Polimer TV" group-title="INDIAN", IN : Polimer TV
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692869
+#EXTINF: -1 tvg-name="IN : Tamil | POLIMER NEWS" group-title="INDIAN", IN : Tamil | POLIMER NEWS
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692870
+#EXTINF: -1 tvg-name="IN : Tamil | KTV US" group-title="INDIAN", IN : Tamil | KTV US
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692871
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA TV US" group-title="INDIAN", IN : Tamil | JAYA TV US
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692872
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA TV" group-title="INDIAN", IN : Tamil | JAYA TV
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692873
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA PLUS" group-title="INDIAN", IN : Tamil | JAYA PLUS
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692874
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA MOVIES" group-title="INDIAN", IN : Tamil | JAYA MOVIES
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692875
+#EXTINF: -1 tvg-name="IN : Tamil | JAYA MAX USA" group-title="INDIAN", IN : Tamil | JAYA MAX USA
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692876
+#EXTINF: -1 tvg-name="IN : Jaya Max" group-title="INDIAN", IN : Jaya Max
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692877
+#EXTINF: -1 tvg-name="IN : EET TV" group-title="INDIAN", IN : EET TV
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692878
+#EXTINF: -1 tvg-name="IN : Tamil | DD PODHIGAI" group-title="INDIAN", IN : Tamil | DD PODHIGAI
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692879
+#EXTINF: -1 tvg-name="IN : Tamil | CAPTAIN NEWS" group-title="INDIAN", IN : Tamil | CAPTAIN NEWS
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692880
+#EXTINF: -1 tvg-name="IN : Tamil | ADITYA TV" group-title="INDIAN", IN : Tamil | ADITYA TV
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692881
+#EXTINF: -1 tvg-name="IN: CAPTAIN TV" group-title="INDIAN", IN: CAPTAIN TV
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692882
+#EXTINF: -1 tvg-name="IN: STAR SPORTS 3 HD" group-title="INDIAN", IN: STAR SPORTS 3 HD
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692883
+#EXTINF: -1 tvg-name="IN: STAR SPORTS 2 HD" group-title="INDIAN", IN: STAR SPORTS 2 HD
+https://m3u-editor.com/serve/49167ef0-1052-11ec-83b7-79cbfa17e895/374692884
