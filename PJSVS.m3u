@@ -2850,3 +2850,102 @@ http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8?t=4c78b6db0d2259010f
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 
+
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HINDICOLORS.png" group-title="VOOT",Hindi Colors HD
+http://193.161.193.99:49103/st/suriya/aio.php?id=48102
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/cneplex.png" group-title="VOOT",Hindi Cineplex HD
+http://193.161.193.99:49103/st/suriya/aio.php?id=48141
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mtvbeats.png" group-title="VOOT",Hindi MTV Beats HD
+http://193.161.193.99:49103/st/suriya/aio.php?id=48169
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors-tamil-in-uk.png" group-title="VOOT",Tamil Colors HD
+http://193.161.193.99:49103/st/suriya/aio.php?id=48020
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors-tamil-in-uk.png" group-title="VOOT",Tamil Colors FHD
+http://193.161.193.99:49103/st/suriya/aio.php?id=51261
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BENGALCOLORS.png" group-title="VOOT",Bengali Colors HD
+http://193.161.193.99:49103/st/suriya/aio.php?id=47905
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png" group-title="VOOT",Marathi Colors HD
+http://193.161.193.99:49103/st/suriya/aio.php?id=47891
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png" group-title="VOOT",Marathi Colors FHD
+http://193.161.193.99:49103/st/suriya/aio.php?id=51260
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/KANNADACOLORS2.png" group-title="VOOT",Kannada Colors Super
+http://193.161.193.99:49103/st/suriya/aio.php?id=47838
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadacolors.png" group-title="VOOT",Kannada Colors Movies HD
+http://193.161.193.99:49103/st/suriya/aio.php?id=47840
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors-kannada-in.png" group-title="VOOT",Kannada Colors FHD
+http://193.161.193.99:49103/st/suriya/aio.php?id=51259
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors-in.png" group-title="VOOT",Colors FHD
+http://193.161.193.99:49103/st/suriya/aio.php?id=51258
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors-bangla-in.png" group-title="VOOT",Colors Bangla FHD
+http://193.161.193.99:49103/st/suriya/aio.php?id=51257
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colorstvhd.png" group-title="VOOT",Rishtey Cineplex
+http://193.161.193.99:49103/st/suriya/aio.php?id=51001
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors123.png" group-title="VOOT",Gujarati Colors
+http://193.161.193.99:49103/st/suriya/aio.php?id=47917
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colorsCnemaaa.png" group-title="VOOT",Gujarati Colors Cinema
+http://193.161.193.99:49103/st/suriya/aio.php?id=47942
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors-rishtey-in.png" group-title="VOOT",Colors Rishtey
+http://193.161.193.99:49103/st/suriya/aio.php?id=51223
+#EXTINF:-1 tvg-id="144" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Colors-Infinity-logo.png" group-title="VOOT",English Colors Infinity HD
+http://193.161.193.99:49103/st/suriya/aio.php?id=47880
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV-LIVE",SONY MARATHI
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009259
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SONYLIV-LIVE",SONY BBC EARTH
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009252
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONYLIV-LIVE",SONY PAL
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009273
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SONYLIV-LIVE",SONY AATH
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009255
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONYLIV-LIVE",SONY YAY
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000001971
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONYLIV-LIVE",SONY MAX HD
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009247
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SONYLIV-LIVE",SONY MAX
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009249
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONYLIV-LIVE",SONY WAH
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009253
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONYLIV-LIVE",SONY MAX2
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000044878
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIV-LIVE",SONY PIX HD
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009258
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SONYLIV-LIVE",SONY SIX HD
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009275
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONYLIV-LIVE",SONY TEN 1 HD
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009276
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONYLIV-LIVE",SONY TEN 2 HD
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009277
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONYLIV-LIVE",SONY TEN 3 HD
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009278
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SONYLIV-LIVE",SONY TEN 4 HD
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000119186
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SONYLIV-LIVE",SONY SIX
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009281
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONYLIV-LIVE",SONY TEN 1
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009280
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SONYLIV-LIVE",SONY TEN 2
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009279
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SONYLIV-LIVE",SONY TEN 3
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009283
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="SONYLIV-LIVE",SONY TEN 4
+http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000119187
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
+http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TELUGU
+http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI CLASSIC
+http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HINDI
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI LIFESTLYE
+http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
