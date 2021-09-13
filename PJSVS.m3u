@@ -2905,6 +2905,9 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-130 tvg-logo="" group-title="Test",Fox Sports
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=@31agust
 
+#EXTINF:-130 tvg-logo="" group-title="Test",Sky Sports Cricket
+http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_M
+
 #EXTINF:-130 tvg-logo="" group-title="Test",FC Sports
 https://fancodelive-a.akamaized.net/hls/live/2028698/a5ffd41c-b3e4-4497-aa23-2bf8cd574363/master.m3u8?hdnea=exp=1631296102~acl=*~id=65444881_iWMywtXRSJN-YGCw~data=65444881~hmac=4963c3f9fe1998757f5665c838b535d68e85b25dbc8a56da50f0837e1082d8b1&deviceId=Linux%20armv8l
 
