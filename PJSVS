@@ -2953,6 +2953,8 @@ https://snehz5tv.herokuapp.com?c=0-9-zeetamil
 #EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil3
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetamil
 
+#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Colors_HD Jio
+http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Test2" tvg-logo="" group-title="Test",Sun Tv2
 https://indo51.gcdn.co/TAMIL-SuntvHD/tracks-v1a1/mono.m3u8
