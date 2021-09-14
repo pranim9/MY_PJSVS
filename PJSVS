@@ -2392,7 +2392,7 @@ http://193.161.193.99:49103/szs/suriya/zlive.php?c=zeetalkies
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=zeesalaam
 #EXTINF:-1 tvg-id="0-9-zeerajasthannews" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeerajasthannews/list/386x386/09zeerajasthannewszeerajas.png" group-title="Zee",Zee Rajasthan News
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=zeerajasthannews
-#EXTINF:-1 tvg-id="0-9-215" tvg-logo="https://akamaividz.zee5.com/resources/0-9-215/list/386x386/09215zeepunjabi.png" group-title="Zee5  ",Zee Punjabi
+#EXTINF:-1 tvg-id="0-9-215" tvg-logo="https://akamaividz.zee5.com/resources/0-9-215/list/386x386/09215zeepunjabi.png" group-title="Zee",Zee Punjabi
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=215
 #EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/386x386/09zeepunjabharyanahimazeep.png" group-title="Zee",Zee Punjab Haryana Himachal Pradesh
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=zeepunjabharyanahima
