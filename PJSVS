@@ -2913,86 +2913,6 @@ http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
 
 
 
-#########---------------------TEST---------------------
-
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil2
-https://snehz5tv.herokuapp.com?c=0-9-zeetamil
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil3
-https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetamil
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Colors_HD Jio
-http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_HD&q=800&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="Test2" tvg-logo="" group-title="Test",Sun Tv2
-https://indo51.gcdn.co/TAMIL-SuntvHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="9693333" tvg-logo="" group-title="Test",Polimer Youtube
-https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
-
-#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Test",Astro cricket
-http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Animla Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Nat Geo
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
-#EXTINF:-130 tvg-logo="" group-title="Test",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Fox Sports
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=@31agust
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Sky Sports Cricket
-http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_M
-
-#EXTINF:-130 tvg-logo="" group-title="Test",FC Sports
-https://fancodelive-a.akamaized.net/hls/live/2028698/a5ffd41c-b3e4-4497-aa23-2bf8cd574363/master.m3u8?hdnea=exp=1631296102~acl=*~id=65444881_iWMywtXRSJN-YGCw~data=65444881~hmac=4963c3f9fe1998757f5665c838b535d68e85b25dbc8a56da50f0837e1082d8b1&deviceId=Linux%20armv8l
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Star Vijay
-https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Zee Tamil
-http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Star Vijay2
-http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Star SPorts
-http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Sony Six
-http://143.244.60.10/SPORTS__SONY_SIX_HD/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Ten1
-http://143.244.60.10/SPORTS__TEN_1_HD/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Ten2
-http://143.244.60.10/SPORTS__TEN_2_HD/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Star Vijay3
-http://143.244.60.10/TAMIL__STAR_VIJAY_HD/tracks-v1a1/mono.m3u8?token=test
-
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Star Sports3
-http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Polimer News Utube
-https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Fox Cricket 501
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Gemini TV (YuppTV - MHDTV)
-https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-tv-hd&e=.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Zee tamil test app
-http://143.244.68.18/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
-
-
 
 ####------------------Ahaohoo--------------------
 
@@ -3151,4 +3071,95 @@ http://indo51.gcdn.co/BEINSPORTSES/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51",BEINSPORTSMAX4 
 http://indo51.gcdn.co/BEINSPORTSMAX4/index.m3u8 
 
+
+
+
+###----------------------143.244.60.10---------------------
+#EXTINF:-130 tvg-logo="" group-title="143.244.60",Star Vijay
+http://143.244.60.10/TAMIL__STAR_VIJAY_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/b5DS0bu.png"group-title="143.244.60",Zee Tamil HD
+http://143.244.60.10/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186574_colors%20tamil.png"group-title="143.244.60", Colors Tamil
+http://143.244.60.10/TAMIL__COLORS_HD/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/rgSaow9.png"group-title="143.244.60",Chutti TV
+http://143.244.60.10/TAMIL__CHUTTI_TV/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/YR8WP9N.jpg"group-title="143.244.60",Vijay Super
+http://143.244.60.10/TAMIL__VIJAY_SUPER/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="143.244.60",Zee Thirai
+http://143.244.60.10/TAMIL__ZEE_THIRAI/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/JADCRTe.png"group-title="143.244.60",Sony Six HD
+http://143.244.60.10/SPORTS__SONY_SIX_HD/index.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/yxs5ldf.png"group-title="143.244.60",Sony Ten 1 HD
+http://143.244.60.10/SPORTS__TEN_1_HD/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/pNaqPbw.png"group-title="143.244.60",Sony Ten 2 HD
+http://143.244.60.10/SPORTS__TEN_2_HD/mono.m3u8?token=tests
+
+
+
+
+
+
+
+
+
+#########---------------------TEST---------------------
+
+
+#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil2
+https://snehz5tv.herokuapp.com?c=0-9-zeetamil
+
+#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil3
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetamil
+
+#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Colors_HD Jio
+http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_HD&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="9693333" tvg-logo="" group-title="Test",Polimer Youtube
+https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Test",Astro cricket
+http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Animla Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Nat Geo
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="" group-title="Test",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Fox Sports
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=@31agust
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Sky Sports Cricket
+http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_M
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Star Vijay
+https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Zee Tamil
+http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Star Vijay2
+http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Star SPorts
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8
+
+
+
+
+
+#EXTINF:-130 tvg-logo="" group-title="Test",Star Sports3
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Polimer News Utube
+https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Fox Cricket 501
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Gemini TV (YuppTV - MHDTV)
+https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-tv-hd&e=.m3u8
 
