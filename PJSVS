@@ -1,48 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV HD
-http://indo51.gcdn.co/TAMIL-SuntvHD/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV SD
-http://ahaohoo.com/.1/tv1/play.php?id=2833&e=.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Tamil",Star Vijay HD
-http://indo51.gcdn.co/TAMIL-STARVIJAYindia/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ccIcC6H.png"group-title="Tamil",K TV HD
-http://indo51.gcdn.co/TAMIL-KtvHD/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185610_aathiya.png"group-title="Tamil",Adithya TV
-http://indo51.gcdn.co/TAMIL-ADITYATAMIL/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Tamil",Jaya TV
-http://indo51.gcdn.co/TAMIL-JAYATVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Tamil",Jaya TV (TS)
-http://uk4.zecast.com:1935/star-live/jaya/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/b5DS0bu.png"group-title="Tamil",Zee Tamil HD
-http://143.244.60.10/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=qNGb6wctTmMKCEvcAX%2b1EQf7Cak%3d&sessionId=eac059bb-7168-cf5e-62b4-e54f894e3b1c:d2eff781-ba4e-c8e0-a0c9-c05a7ec3b90e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXRhbWlsLWhkLzgwNTk4Ng==
-#EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Tamil",Colors Tamil HD
-https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd|user-agent="KAIOS"
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186574_colors%20tamil.png"group-title="Tamil", Colors Tamil
-http://143.244.60.10/TAMIL__COLORS_HD/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/rgSaow9.png"group-title="Tamil",Chutti TV
-http://143.244.60.10/TAMIL__CHUTTI_TV/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/5YcctyX.png"group-title="Tamil",Jaya Max
-http://indo51.gcdn.co/TAMIL-Jayamax/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/YR8WP9N.jpg"group-title="Tamil",Vijay Super
-http://143.244.60.10/TAMIL__VIJAY_SUPER/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg"group-title="Tamil",Sun Music HD
-https://indo51.gcdn.co/TAMIL-SunmusicHD/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1623067878_jaya%20movie.png"group-title="Tamil",JAYA Movies
-http://indo51.gcdn.co/TAMIL-JAYAMOVIES/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Zee Thirai
-http://143.244.60.10/TAMIL__ZEE_THIRAI/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Sun Life
-http://indo51.gcdn.co/TAMIL-Sunlife/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",D Tamil
-http://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Yupp Thirai
-http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
-
-
-
+##----------SunNxt-------
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14020/500x750_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg" group-title="SunNxt",SUN TV HD
@@ -111,7 +69,7 @@ http://193.161.193.99:49103/szs/suriya/sun.php?c=9029
 http://193.161.193.99:49103/szs/suriya/sun.php?c=75117
 
 
-
+###------------Jio--------
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="JioTV",Colors Cineplex HD
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Colors_Cineplex_HD&q=800
@@ -2346,6 +2304,7 @@ http://193.161.193.99:49103/jt/suriya/jt.php?c=AB_News&q=800
 
 
 
+####----------------Zee---------------
 
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title="Zee",Zee Tamil
@@ -2364,8 +2323,6 @@ http://193.161.193.99:49103/szs/suriya/zlive.php?c=ddpodhigai
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=203
 #EXTINF:-1 tvg-id="0-9-220" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Zee",PuthiyaThalimurai
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=220
-
-
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Zee",Zee  HD
 http://193.161.193.99:49103/szs/suriya/zlive.php?c=zeetvhd
 #EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" group-title="Zee",Zee 
@@ -2624,6 +2581,7 @@ http://193.161.193.99:49103/szs/suriya/zlive.php?c=pictures
 
 
 
+####------------------IPtvTree-------------
 
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="IPtvTree",Star Vijay
@@ -2695,6 +2653,7 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/44
 
 
 
+###-------------------News(YT)-----------------
 
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="News (Yt)",Polimer News
@@ -2739,6 +2698,10 @@ https://utube.arapurayil.com/stream/UCYPvAwZP8pZhSMW8qs7cVCw/master.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png"group-title="News (Yt)",NDTV 24*7
 https://utube.arapurayil.com/stream/UCZFMm1mMw0F81Z37aaEzTUA/master.m3u8
 
+
+
+
+###--------------------Voot---------------------
 
 
 
@@ -2881,6 +2844,7 @@ https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd|user-
 
 
 
+###----------------SonyLiv-------------------
 
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SonyLiv",SONY MARATHI
@@ -2924,6 +2888,9 @@ http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000009283
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="SonyLiv",SONY TEN 4
 http://193.161.193.99:49103/szs/suriya/sonyliv.php?cid=1000119187
 
+
+
+-------------
 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Rasi Net",RASI TV
 http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
