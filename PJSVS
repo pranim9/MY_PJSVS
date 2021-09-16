@@ -2874,6 +2874,12 @@ http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=rk
 http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622185695_ktv.png" group-title="Cloud Tv" , K TV HD
 http://212.102.60.40:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187488_zeetamil.png" group-title="Cloud Tv" , Zee Tamil HD
+http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187760_jaya tv.png" group-title="Cloud Tv" , Jaya TV
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=rk
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187601_jaya max.png" group-title="Cloud Tv", jaya Max
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622188105_star sports tamil.png" group-title="Cloud Tv", Star Sports 1
 http://212.224.98.204:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622174946_aus tamil.png" group-title="Cloud Tv" , Aus Tamil 
@@ -3159,12 +3165,7 @@ http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622189968_tiji tv.png" group-title="Cloud Tv", TIJI kids
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187760_jaya tv.png" group-title="Cloud Tv" , Jaya TV
-http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=rk
-#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187601_jaya max.png" group-title="Cloud Tv", jaya Max
-http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=rk
-#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187488_zeetamil.png" group-title="Cloud Tv" , Zee Tamil HD
-http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=rk
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187423_zeethirai.png" group-title="Cloud Tv" , Zee Thirai
 https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1620627781~exp=1620630781~acl=/*~hmac=805e7a404f5cdf774489626029a2fb883f0a5b826833226bd0bb2319f9798f29
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622186574_colors tamil.png" group-title="Cloud Tv" , Colors Tamil
@@ -3465,66 +3466,6 @@ http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
 #EXTINF:-130 tvg-logo="" group-title="Test",Star Vijay2
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 
-#EXTINF:-130 tvg-logo="" group-title="Test",Star SPorts
-http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8
-
-
-#EXTINF:-130 tvg-logo="" group-title="Test",Star Sports3
-http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Polimer News Utube
-https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
-
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Fox Cricket 501
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Test",Rasi Tamil
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Test",Rasi TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Test",Rasi Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76m22KPS/rasi-classic.png" group-title="Test",Rasi Classic
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Test",Rasi Music
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Test",Rasi Hollywood
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Test",Rasi Hindi
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png" group-title="Test",Rasi Lifestyle
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
