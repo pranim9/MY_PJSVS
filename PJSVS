@@ -2857,6 +2857,10 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
 
 
+
+
+
+
 #####----------------Cloud TV -------------------
 
 
@@ -2963,7 +2967,7 @@ https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616432987_raj tv.png" group-title="Cloud Tv" , RAJ TV
 http://212.102.60.40:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616432805_akkaram kids.png" group-title="CLOUD TAMIL KIDS Channel" , Akaram Kidz
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616432805_akkaram kids.png" group-title="Cloud Tv" , Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616432667_moon.png" group-title="Cloud Tv" , Moon TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
@@ -2975,7 +2979,7 @@ http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616432007_mk six.png" group-title="Cloud Tv" , MK SIX
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616431810_ibc kids.png" group-title="CLOUD TAMIL KIDS Channel" , IBC KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616431810_ibc kids.png" group-title="Cloud Tv" , IBC KIDS
 https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616431687_IBC PAKADI.png" group-title="Cloud Tv" , IBC Pagadi
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
@@ -3153,7 +3157,7 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622191423_vanavil.png" group-title="Cloud Tv" , Vanavil tv
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622189968_tiji tv.png" group-title="CLOUD TAMIL KIDS Channel" , TIJI kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622189968_tiji tv.png" group-title="Cloud Tv", TIJI kids
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187760_jaya tv.png" group-title="Cloud Tv" , Jaya TV
 http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=rk
@@ -3463,8 +3467,6 @@ http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 
 #EXTINF:-130 tvg-logo="" group-title="Test",Star SPorts
 http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8
-
-
 
 
 #EXTINF:-130 tvg-logo="" group-title="Test",Star Sports3
