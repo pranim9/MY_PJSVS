@@ -2876,6 +2876,8 @@ http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
 http://212.102.60.40:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187488_zeetamil.png" group-title="Cloud Tv" , Zee Tamil HD
 http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=rk
+#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Cloud Tv",Colors Tamil HD
+http://212.224.98.196:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187760_jaya tv.png" group-title="Cloud Tv" , Jaya TV
 http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1622187601_jaya max.png" group-title="Cloud Tv", jaya Max
