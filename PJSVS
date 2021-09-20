@@ -3410,3 +3410,17 @@ http://c.proserver.in:8080/testm/testm/11968
 
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Sun Music
 http://c.proserver.in:8080/testm/testm/12013
+
+
+
+
+
+#EXTINF:-1  tvg-id=521  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png"   group-title=Test,   Sun TV HD TA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000542&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjA1MDUwNzc0IiwiaXNlIjp0cnVlLCJqdGkiOiI5ODE4MzliYy00NzBhLTQ1YzktYWEwZi03MTg2MDliMjA0MzMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjMyMjIzNDcxLCJuYW1lIjoiU0FNQkFUSCBTIiwiaWF0IjoxNjMyMTM3MDcxLCJlbnQiOlt7ImJpZCI6MTAwMDAwMTQyMywiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.Plz_2KSEuTz6GdrFgtQdE_OTInJ5UJh456F3WREfyXc
+https://delta14tatasky.akamaized.net/out/i/2643861.mpd
+
+#EXTINF:-1  tvg-id=496  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png"   group-title=Test,   Star Vijay HD TA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000526&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjA1MDUwNzc0IiwiaXNlIjp0cnVlLCJqdGkiOiI3YTdjNDQzZC04ZWEyLTQ2ZDMtOGM0Yy0zOTA1NWY3YTkzZjEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjMyMjIzNDcxLCJuYW1lIjoiU0FNQkFUSCBTIiwiaWF0IjoxNjMyMTM3MDcxLCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM3NSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.goum6IRFePUtih_0XrExDNeXD-Uj0Kdna8nmABwZiYo
+https://delta12tatasky.akamaized.net/out/i/3562165.mpd
