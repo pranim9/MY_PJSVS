@@ -3357,6 +3357,8 @@ http://livemano.webd.pro/01jokertv/star7/jokertv.m3u8?id=1769
 #EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Super Sports Cricket
 http://livemano.webd.pro/01jokertv/star7/jokertv.m3u8?id=49992
 
+#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test", Star Sports English3
+https://cdnn.ipldekh.xyz/ipllive/480p.m3u8
 
 
 #EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil2
