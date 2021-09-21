@@ -3502,25 +3502,6 @@ http://indo51.gcdn.co/BEINSPORTSMAX4/index.m3u8
 
 
 
-###----------------------143.244.60.10---------------------
-#EXTINF:-130 tvg-logo="" group-title="143.244.60",Star Vijay
-http://143.244.60.10/TAMIL__STAR_VIJAY_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/b5DS0bu.png"group-title="143.244.60",Zee Tamil HD
-http://143.244.60.10/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186574_colors%20tamil.png"group-title="143.244.60", Colors Tamil
-http://143.244.60.10/TAMIL__COLORS_HD/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/rgSaow9.png"group-title="143.244.60",Chutti TV
-http://143.244.60.10/TAMIL__CHUTTI_TV/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/YR8WP9N.jpg"group-title="143.244.60",Vijay Super
-http://143.244.60.10/TAMIL__VIJAY_SUPER/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="143.244.60",Zee Thirai
-http://143.244.60.10/TAMIL__ZEE_THIRAI/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/JADCRTe.png"group-title="143.244.60",Sony Six HD
-http://143.244.60.10/SPORTS__SONY_SIX_HD/index.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/yxs5ldf.png"group-title="143.244.60",Sony Ten 1 HD
-http://143.244.60.10/SPORTS__TEN_1_HD/mono.m3u8?token=test
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/pNaqPbw.png"group-title="143.244.60",Sony Ten 2 HD
-http://143.244.60.10/SPORTS__TEN_2_HD/mono.m3u8?token=tests
 
 
 
@@ -3551,6 +3532,28 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-comedy&e=.m3u8
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
 
 
+
+############-----------------Nwbz1u.ecm------------------
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u.ecm", Fox Sports
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u.ecm",Astro Cricket
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083d9f4ca7021b397c900226a07b7114874b9197afacbbdec51deedd083ce4aa1ee96e8e61013ef1a1c1d13948427ba4cac1f64bddcef651053c797030f2f609faa61b4c1bcf14d36071992d1ddeaf74d2f6ed8481a96c5710ab9d2619d09b43ad&mac=00:1A:79:3A:6B:91&ip=202.134.14.145&magic_server=MAIN_MP
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u.ecm",Sky Cricket
+http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_M
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u.ecm",Discovery
+http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:51:A2:B8&ip=27.96.95.31&magic_server=MAIN_MP&ip=103.121.220.147&magic_server=MAIN_MP
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u.ecm",Sony Pix
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:3A:6B:91&ip=27.96.95.31&magic_server=MAIN_MP
 
 
 
@@ -3607,11 +3610,7 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-130 tvg-logo="" group-title="Test",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-130 tvg-logo="" group-title="Test",Fox Sports
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=@31agust
 
-#EXTINF:-130 tvg-logo="" group-title="Test",Sky Sports Cricket
-http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_M
 
 #EXTINF:-130 tvg-logo="" group-title="Test",Star Vijay
 https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8
@@ -3634,15 +3633,13 @@ http://c.proserver.in:8080/testm/testm/11968
 http://c.proserver.in:8080/testm/testm/12013
 
 
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Sports Tamil33
+http://51.159.19.36/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Sports 11111
+http://185.177.126.10/StarSport1/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1  tvg-id=521  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png"   group-title=Test,   Sun TV HD TA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000542&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjA1MDUwNzc0IiwiaXNlIjp0cnVlLCJqdGkiOiI5ODE4MzliYy00NzBhLTQ1YzktYWEwZi03MTg2MDliMjA0MzMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjMyMjIzNDcxLCJuYW1lIjoiU0FNQkFUSCBTIiwiaWF0IjoxNjMyMTM3MDcxLCJlbnQiOlt7ImJpZCI6MTAwMDAwMTQyMywiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.Plz_2KSEuTz6GdrFgtQdE_OTInJ5UJh456F3WREfyXc
-https://delta14tatasky.akamaized.net/out/i/2643861.mpd
 
-#EXTINF:-1  tvg-id=496  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png"   group-title=Test,   Star Vijay HD TA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000526&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjA1MDUwNzc0IiwiaXNlIjp0cnVlLCJqdGkiOiI3YTdjNDQzZC04ZWEyLTQ2ZDMtOGM0Yy0zOTA1NWY3YTkzZjEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjMyMjIzNDcxLCJuYW1lIjoiU0FNQkFUSCBTIiwiaWF0IjoxNjMyMTM3MDcxLCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM3NSwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.goum6IRFePUtih_0XrExDNeXD-Uj0Kdna8nmABwZiYo
-https://delta12tatasky.akamaized.net/out/i/3562165.mpd
