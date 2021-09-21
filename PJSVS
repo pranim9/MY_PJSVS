@@ -3640,6 +3640,8 @@ http://51.159.19.36/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Sports 11111
 http://185.177.126.10/StarSport1/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Hotstar
+https://live13p.hotstar.com/hls/live/2003715/ipl2021/tam/1540008464/15mindvrm019bf435cf1b484143b90166cea1aceda821september2021/master_8.m3u8%7Cuser-agent=Mozilla/5.0%20(Linux;%20Android%2010;%20TheDNK)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/89.0.4389.105%20Mobile%20Safari/537.36&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&cookie=ajs_group_id=null;%20_gcl_au=1.1.147543810.1631855748;%20_ga=GA1.2.27786263.1631855750;%20_fbp=fb.1.1631855750793.852757075;%20hs_uid=1ceb29ed-3f26-4416-941c-085159b29673;%20ajs_user_id=%2202cbca41e4c946a1a7542e24a6f5ce7f%22;%20ajs_anonymous_id=%22c0771bbe-3887-4bf6-aaa8-43431468b1a5%22;%20_gid=GA1.2.778857014.1632141011;%20_uetsid=7febab001a0e11ecb32589083e3688b5;%20_uetvid=0509aa2a6d49a9c34b2cdcfb83fe4f77;%20_gat_UA-53733575-1=1;;%20hdntl=exp=1632271938~acl=*ipl2021*~id=2693d3d4ab2d47e106c13b8e30aea479~data=ip%3DWfKCAGGzR6K1NrhAh6ILARnbmdAuWJZP5ygrQv9jFrGSPhE8fWt80gJ-userid%3DtycY4CJD6wbB6E2qJWzDhj2ITmulXeTZ3b9o8S6tLhYz-did%3DGvpmvQFFzzrAjzRmAOYJf7EA7eeZyyqRhWTjNDVPmv1pTM6rgC82tFK-~hmac=038fa46800a012ebd2eba622f46399f2d073681a85a32aabcee548e4386e376b
 
 
 
