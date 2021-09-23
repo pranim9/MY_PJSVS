@@ -1,9 +1,22 @@
 #EXTM3U
 
 
+####----------------Tamil----------------------
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV (Yupp TV Feed)
+https://tvstream.fun/api/max.php?id=12667&e=.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Tamil",Star Vijay HD
+https://moviefive.xyz/LiveTV/VijayTv.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/b5DS0bu.png"group-title="Tamil",Zee Tamil HD
+https://moviefive.xyz/zee5/Main.php?c=0-9-zeetamil&e.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",D Tamil
+http://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Yupp Thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 ####----------------Zee---------------
 
@@ -18,6 +31,7 @@ http://live.picasotv.xyz/zeetv/index.php?c=0-9-306
 http://live.picasotv.xyz/zeetv/index.php?c=0-9-makkaltv
 #EXTINF:-1 tvg-id="0-9-221" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Zee",PuthuYugam
 http://live.picasotv.xyz/zeetv/index.php?c=0-9-221
+
 
 
 
