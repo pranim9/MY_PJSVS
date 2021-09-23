@@ -1,32 +1,11 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test", Star Sports Tamil 1
-http://51.159.19.36/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",STAR SPORTS TAMIL
-http://livemano.webd.pro/01jokertv/star7/jokertv.m3u8?id=48005
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Star Sports English
-http://livemano.webd.pro/01jokertv/star7/jokertv.m3u8?id=48105
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Sky sports cricket2
-http://livemano.webd.pro/01jokertv/star7/jokertv.m3u8?id=1769
-
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Super Sports Cricket
-http://livemano.webd.pro/01jokertv/star7/jokertv.m3u8?id=49992
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test", Star Sports English3
-https://cdnn.ipldekh.xyz/ipllive/480p.m3u8
-
-
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil2
+#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil 1
 https://snehz5tv.herokuapp.com?c=0-9-zeetamil
 
-#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil3
-https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetamil
+#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil 2
+https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetamil 
 
 #EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Colors_HD Jio
 http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_HD&q=800&e=junk.m3u8
@@ -54,20 +33,3 @@ http://c.proserver.in:8080/testm/testm/11968
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Sun Music2
 http://c.proserver.in:8080/testm/testm/12013
 
-
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Sports Tamil5
-http://51.159.19.36/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Sports 7
-http://185.177.126.10/StarSport1/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Sports 8
-http://dxla2.gcdn.co/WC30630/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Sports Hindi 1
-http://93.152.174.144:4000/play/ss1in/93393318.m3u8
-
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Bein Sports IPL
-http://185.132.178.105:8090/BEIN_IPL_SD/tracks-v1a1/index.m3u8
