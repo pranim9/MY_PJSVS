@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SunTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/U30x7Y4.jpg" group-title="Test",Sun TV (720p)
-#EXTVLCOPT:http-user-agent=stream
-http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil 1
 https://snehz5tv.herokuapp.com?c=0-9-zeetamil
@@ -11,13 +8,11 @@ https://snehz5tv.herokuapp.com?c=0-9-zeetamil
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetamil 
 
 #EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Colors_HD Jio
-http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_HD&q=800&e=junk.m3u8
+http://45.120.136.247/snehjiotv/snehjioo.php?c=Colors_HD&q=800&e=.m3u8
+
 
 #EXTINF:-1 tvg-id="9693333" tvg-logo="" group-title="Test",Polimer Youtube
 https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
-
-#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Test",Astro cricket
-http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
 
 
 #EXTINF:-130 tvg-logo="" group-title="Test",Star Vijay
@@ -32,7 +27,3 @@ http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Sun tv HD2
 http://c.proserver.in:8080/testm/testm/11968
-
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Sun Music2
-http://c.proserver.in:8080/testm/testm/12013
-
