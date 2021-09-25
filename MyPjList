@@ -197,6 +197,58 @@ http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist
 http://89.187.162.89/Capital_NEWS/index.m3u8
 
 
+######---------------- SPorts--------------
+
+
+
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Sports", Fox Cricket
+http://ux38.gcdn.co/UKS35/index.m3u88
+
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h" group-title="Sports",Star Sports 1 HD
+http://ux38.gcdn.co/UKS3/tracks-v1a1/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1171/661171-h" group-title="Sports",Star Sports 1 हिन्दी HD
+http://ux38.gcdn.co/UKS5/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTG0x_6ly8jZim2UK43yLieqjvE_Pr7gTdVA&usqp=CAU" group-title="Sports",Star Sports 1 Tamil
+http://ux38.gcdn.co/UKS10/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2 HD (gCDN)
+http://ux38.gcdn.co/UKS7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png"  group-title="Sports",Star Sports Select 2 HD (gCDN)
+http://ux38.gcdn.co/UKS9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-cricket-257.png" group-title="Sports" ,Astro Cricket (gCDN)
+http://ux38.gcdn.co/UKS34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="Sports",beIn Sports 1 English
+http://ux38.gcdn.co/UKS63/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="Sports",beIn Sports 2 English
+http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/c2kMtNm/IMG-20210923-190622.png",THỂ THAO NƯỚC NGOÀI 2
+http://ux38.gcdn.co/UKS54/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports", Sony Six HD
+http://ux38.gcdn.co/UKS50/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Sports",Sony Ten 3
+http://ux38.gcdn.co/UKS32/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",Star Sports Select 1
+http://ux38.gcdn.co/UKS8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1172/661172-h" group-title="Sports",Star Sports Select 2 HD
+http://ux38.gcdn.co/UKS9/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="Sports",SuperSport Cricket HD SA
+http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports-830x228.png" group-title="Sports",Ten Sports PK
+http://ux38.gcdn.co/UKS47/tracks-v1a1/index.m3u8
 
 
 ####-----------------Yupp SunNXt--------------------------
