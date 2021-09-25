@@ -229,9 +229,6 @@ http://ux38.gcdn.co/UKS63/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="Sports",beIn Sports 2 English
 http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/c2kMtNm/IMG-20210923-190622.png",THỂ THAO NƯỚC NGOÀI 2
-http://ux38.gcdn.co/UKS54/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports", Sony Six HD
 http://ux38.gcdn.co/UKS50/tracks-v1a1/mono.m3u8
 
@@ -341,30 +338,6 @@ http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/3
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/44
 
 
-
-
-
-############-----------------Nwbz1u.ecm------------------
-
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u", Fox Sports
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
-
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u",Astro Cricket
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083d9f4ca7021b397c900226a07b7114874b9197afacbbdec51deedd083ce4aa1ee96e8e61013ef1a1c1d13948427ba4cac1f64bddcef651053c797030f2f609faa61b4c1bcf14d36071992d1ddeaf74d2f6ed8481a96c5710ab9d2619d09b43ad&mac=00:1A:79:3A:6B:91&ip=202.134.14.145&magic_server=MAIN_MP
-
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u",Sky Cricket
-http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_M
-
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u",Discovery
-http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:51:A2:B8&ip=27.96.95.31&magic_server=MAIN_MP&ip=103.121.220.147&magic_server=MAIN_MP
-
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Nwbz1u",Sony Pix
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:3A:6B:91&ip=27.96.95.31&magic_server=MAIN_MP
 
 
 #####------------------Local---------------------
