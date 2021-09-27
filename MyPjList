@@ -18,6 +18,10 @@ http://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
+
+
+
+
 ####----------------Zee---------------
 
 
@@ -251,19 +255,105 @@ http://ux38.gcdn.co/UKS47/tracks-v1a1/index.m3u8
 ####-----------------Yupp SunNXt--------------------------
 
 
-#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNXT-Yupp", SUN TV HD
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Yupp", SUN TV HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-tv-hd&e=.m3u8
-#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/sun-news-white.png" group-title="SunNXT-Yupp", SUN NEWS
+#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/sun-news-white.png" group-title="Yupp", SUN NEWS
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-news&e=.m3u8
-#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SunNXT-Yupp ", KTV HD
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Yupp ", KTV HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=ktv-hd&e=.m3u8
-#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SunNXT-Yupp", SUN MUSIC HD
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Yupp", SUN MUSIC HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-music-hd&e=.m3u8
-#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_4adabbae-d9c8-47ac-8773-dc790a378228.jpg" group-title="SunNXT-Yupp", SUN LIFE
+#EXTINF: -1 tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_4adabbae-d9c8-47ac-8773-dc790a378228.jpg" group-title="Yupp", SUN LIFE
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-life&e=.m3u8
-#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/adithya-tv-white.png" group-title="SunNXT-Yupp", Adithya TV
+#EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/adithya-tv-white.png" group-title="Yupp", Adithya TV
 https://mhdtvapp.xyz/yupp/yupp.php?c=adithya-tv&e=.m3u8
 
+
+
+####------------- RASI----------------
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3HPhrIB.png"group-title="Rasi Net",Rasi Hollywood
+http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/v8U4xyf.png"group-title="Rasi Net",Rasi Tamil
+http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/fzwWhCN.png"group-title="Rasi Net",Rasi Network
+http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/rQKU3lx.png"group-title="Rasi Net",Rasi Movies
+http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/UjEwUHb.png"group-title="Rasi Net",Rasi Classic
+http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/4rzTPWA.png"group-title="Rasi Net",Rasi Music HD
+http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/RqgE86j.png"group-title="Rasi Net",Rasi TV Malayalam
+http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bmxqT1v.png"group-title="Rasi Net",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+
+
+
+
+
+####---------------------Indo51---------------------
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Indo51",Sun TV HD
+http://indo51.gcdn.co/TAMIL-SuntvHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Indo51",Sun TV SD
+http://ahaohoo.com/.1/tv1/play.php?id=2833&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Indo51",Star Vijay HD
+http://indo51.gcdn.co/TAMIL-STARVIJAYindia/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ccIcC6H.png"group-title="Indo51",K TV HD
+http://indo51.gcdn.co/TAMIL-KtvHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185610_aathiya.png"group-title="Indo51",Adithya TV
+http://indo51.gcdn.co/TAMIL-ADITYATAMIL/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Indo51",Jaya TV
+http://indo51.gcdn.co/TAMIL-JAYATVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/5YcctyX.png"group-title="Indo51",Jaya Max
+http://indo51.gcdn.co/TAMIL-Jayamax/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1623067878_jaya%20movie.png"group-title="Indo51",JAYA Movies
+http://indo51.gcdn.co/TAMIL-JAYAMOVIES/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Indo51",Sun Life
+http://indo51.gcdn.co/TAMIL-Sunlife/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/GNx4txl.jpg"group-title="Indo51",Asianet HD
+http://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png"group-title="Indo51", Sony HD
+http://indo51.gcdn.co/hindi-SONYHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.epg.best/in/SonySAB.in.png"group-title="Indo51", SONY SAB HD
+http://indo51.gcdn.co/hindi-SONYSABHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", SONY PAL
+http://indo51.gcdn.co/hindi-SONYPAL/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.epg.best/in/StarBharat.in.png"group-title="Indo51", STAR BHARAT HD
+http://indo51.gcdn.co/hindi-STARBHARATHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", STAR PLUS HD
+http://indo51.gcdn.co/hindi-STARPLUSHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", STAR GOLD HD
+http://indo51.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", COLORS HD
+http://indo51.gcdn.co/hindi-COLORSHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", STAR SPORTS HD 1
+http://indo51.gcdn.co/STARSPORTSHD1/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", STAR SPORTS HD 3
+http://indo51.gcdn.co/STARSPORTS3/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", STAR SPORTS HD 2
+http://indo51.gcdn.co/STARSPORTSHD2/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", TEN 1 HD
+http://indo51.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", TEN 2 HD
+http://indo51.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", TEN 3 HD
+http://indo51.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51", Sony Six HD
+http://indo51.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/JADCRTe.png"group-title="Indo51",Sony Six HD
+http://indo51.gcdn.co/SONYSIXindia/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51",BEINSPORTS1FR 
+http://indo51.gcdn.co/BEINSPORTS1FR/index.m3u8 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51",BEINSPORTS2FR
+http://indo51.gcdn.co/BEINSPORTS2FR/index.m3u8 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51",BEINSPORTSES 
+http://indo51.gcdn.co/BEINSPORTSES/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Indo51",BEINSPORTSMAX4 
+http://indo51.gcdn.co/BEINSPORTSMAX4/index.m3u8 
 
 
 
