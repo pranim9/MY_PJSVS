@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Star Tamil Live
+https://cdntam.ottx.xyz/player/master_8.m3u8
 
 #EXTINF:-1 tvg-id="Test1" tvg-logo="" group-title="Test",Zee Tamil 1
 https://snehz5tv.herokuapp.com?c=0-9-zeetamil
