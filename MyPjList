@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-chno="211" tvg-id="SUN TV" tvg-name="SUN TV" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",SUN TV
-http://93.190.139.35:8278/streams/d/Suntv/playlist.m3u8
+https://moviefive.xyz/Sunnxt/Live/SunTVHDLIVE.m3u8
 
 #EXTINF:-1 tvg-chno="224" tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",Star Vijay
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
