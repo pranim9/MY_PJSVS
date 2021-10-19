@@ -32,15 +32,15 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title="Zee",Zee Tamil
-https://snehz5tvnew.herokuapp.com?c=0-9-zeetamil 
+ https://snehz5tv.herokuapp.com/?c=0-9-zeetamil 
 #EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png" group-title="Zee",Zee Thirai
-https://snehz5tvnew.herokuapp.com?c=0-9-224
+ https://snehz5tv.herokuapp.com/?c=0-9-224
 #EXTINF:-1 tvg-id="0-9-306" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Zee",Vendhar
-https://snehz5tvnew.herokuapp.com?c=0-9-306
+ https://snehz5tv.herokuapp.com/?c=0-9-306
 #EXTINF:-1 tvg-id="0-9-makkaltv" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Zee",Makkal
-https://snehz5tvnew.herokuapp.com?c=0-9-makkaltv
+ https://snehz5tv.herokuapp.com/?c=0-9-makkaltv
 #EXTINF:-1 tvg-id="0-9-221" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Zee",PuthuYugam
-https://snehz5tvnew.herokuapp.com?c=0-9-221
+ https://snehz5tv.herokuapp.com/?c=0-9-221
 
 
 
