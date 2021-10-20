@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", DD RETRO
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/921
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI" NEWS, TIMES NOW NAVBHARAT HD
@@ -61,13 +62,13 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/909
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", COLORS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/2
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, STAR SPORTS 2 HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", STAR SPORTS 2 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/3
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", STAR BHARAT HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/4
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, STAR SPORTS 1 HINDI HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", STAR SPORTS 1 HINDI HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/7
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, STAR SPORTS 1 ENGLISH HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", STAR SPORTS 1 ENGLISH HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/10
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", STAR GOLD HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
@@ -75,15 +76,15 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/13
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", STAR PLUS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/14
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, STAR SPORTS SELECT 1 HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", STAR SPORTS SELECT 1 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/19
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, STAR SPORTS SELECT 2 HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", STAR SPORTS SELECT 2 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/20
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", ZEE TV HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/26
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", ZEE CINEMA HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/27
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, STAR SPORTS 3*
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", STAR SPORTS 3*
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/30
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", DD NATIONAL HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/31
@@ -95,7 +96,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/33
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/34
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", BIG MAGIC GANGA
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/35
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, DD SPORTS
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", DD SPORTS
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/38
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", JAN TV
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/40
@@ -145,9 +146,9 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/82
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/84
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="NEWS", CNBC TV18 NEWS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/91
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS, BABY TV HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS", BABY TV HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/93
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, TEN 2 HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", TEN 2 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/94
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", NAT GEO HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/95
@@ -159,13 +160,13 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/104
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/105
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="NEWS", TIMES NOW HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/110
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, SONY SIX HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", SONY SIX HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/111
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, TEN 1 HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", TEN 1 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/112
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", HISTORY TV 18 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/116
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS, NICK PLUS HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS", NICK PLUS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/120
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", MINIPLEX HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/121
@@ -175,17 +176,17 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/123
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/125
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", FOX LIFE HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/126
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, TEN 3 HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", TEN 3 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/128
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", MN PLUS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/129
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS, DISNEY INTERNATIONAL HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS", DISNEY INTERNATIONAL HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/132
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, EUROSPORTS HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", EUROSPORTS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/134
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", TATA SKY BOLLYWOOD HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/138
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS, CN PLUS HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS", CN PLUS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/139
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", AASTHA
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/144
@@ -195,7 +196,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/146
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/147
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", UTV MOVIES
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/148
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS, DISNEY JUNIOR
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS", DISNEY JUNIOR
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/149
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", ARIHANT 
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/166
@@ -203,7 +204,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/166
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/172
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", STAR UTSAV MOVIES
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/177
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS, CARTOON NETWORK
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="KIDS", CARTOON NETWORK
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/179
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", SONY WAH 
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/180
@@ -223,7 +224,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/212
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/213
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", INDIA TV
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/214
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, FAKHT MARATHI
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", FAKHT MARATHI
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/215
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", DANGAL
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/216
@@ -325,7 +326,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/318
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/319
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", SONY PAL
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/323
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, SONY SIX (Back-UP)
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", SONY SIX (Back-UP)
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/324
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", SONY SAB HD (Back-Up)
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/327
@@ -445,7 +446,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/489
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/578
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", ZEE CINEMA INTERNATIONAL
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/579
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, TULJA BHAVANI
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", TULJA BHAVANI
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/589
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", AND EXPLORER HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/107
@@ -581,7 +582,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/782
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/556
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="TAMIL", 7S MUSIC
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/761
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS, STAR SPORTS TAMIL
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="SPORTS", STAR SPORTS TAMIL
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/8
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="TAMIL", STAR VIJAY HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/12
@@ -989,27 +990,27 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/854
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/895
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="GUJARATI", ZEE KALAK
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/896
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, STAR PARVAH HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", STAR PARVAH HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/9
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, ZEE TALKIES HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", ZEE TALKIES HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/109
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, ZEE MARATHI HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", ZEE MARATHI HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/117
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, COLORS MARATHI HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", COLORS MARATHI HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/118
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, SONY MARATHI 
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", SONY MARATHI 
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/167
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="BENGALI", SONY AATH
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/325
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, DD SAHYADRI
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", DD SAHYADRI
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/421
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, ZEE 24 TAAS
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", ZEE 24 TAAS
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/423
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, SANGEET MARATHI
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", SANGEET MARATHI
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/447
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, 9X JHAKAAS
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", 9X JHAKAAS
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/450
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI, TV9 MARATHI
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="MARATHI", TV9 MARATHI
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/855
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="ODIA", ARGUS NEWS
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1052
@@ -1105,7 +1106,7 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/48
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/64
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="ENGLISH", TATA SKY HITS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/75
-#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI"/TAMIL/TELUGU, TATA SKY WORLD CINEMA HD
+#EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="HINDI", TATA SKY WORLD CINEMA HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/77
 #EXTINF:-1,tvg-id=""tvg-name=""tvg-logo=""group-title="ENGLISH", ANIMAL PLANET HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/80
