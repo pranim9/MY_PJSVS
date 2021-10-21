@@ -1,0 +1,1584 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+
+#EXTINF:-1 group-title="Tamil Fm",100% Love Radio
+http://stream.zeno.fm/48kgynhuutzuv
+#EXTINF:-1 group-title="Tamil Fm",100% New Songs
+http://stream.zeno.fm/8hx0ftvm0wzuv
+#EXTINF:-1 group-title="Tamil Fm",100% Sad Songs
+http://stream.zeno.fm/ven997gqvtzuv
+#EXTINF:-1 group-title="Tamil Fm",80s Tamil Hits
+http://stream.zeno.fm/48w230kx8vzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",90s Hits Radio VanavilFM
+https://ec2.yesstreaming.net:3790/stream
+#EXTINF:-1 group-title="Tamil Fm",Aadhi FM
+http://stream.zenolive.com/dnbdm2n9fwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Aalayam FM
+http://stream.zenolive.com/etwnrhnbkbruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Aalayam FM Kumbakonam
+http://stream.zeno.fm/rc0zvhnbkbruv
+#EXTINF:-1 group-title="Tamil Fm",Aaruthal FM
+https://eu2.fastcast4u.com/proxy/aaruthalfm?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Aavai FM
+https://usa9.fastcast4u.com/proxy/aavaifm?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",ABC Tamil FM
+https://eu8.fastcast4u.com/proxy/ailevdcu?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Abishak Ram
+http://stream.zeno.fm/222enf2uezzuv
+#EXTINF:-1 group-title="Tamil Fm",Aby FM
+http://stream.zenolive.com/nam8d1h6gxquv.aac
+#EXTINF:-1 group-title="Tamil Fm",ADA Ceylon FM
+http://stream.zeno.fm/c32gn1eas2zuv
+#EXTINF:-1 group-title="Tamil Fm",Adirai FM 90.4
+https://listen.radioking.com/radio/188161/stream/230320
+#EXTINF:-1 group-title="Tamil Fm",Adivaaram FM
+http://stream.zenolive.com/fna1ne4r01zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Affluenz Radio
+http://stream.zenolive.com/9aed0zdv9qzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Agaramuthalaa FM
+http://stream.zenolive.com/rc739wuvra0uv.aac
+#EXTINF:-1 group-title="Tamil Fm",AIR Chennai B
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio020/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Chennai FM Gold 102.3
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Chennai PC
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio023/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Chennai VBS
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Coimbatore AM 999
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Coimbatore FM Rainbow 103
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Dharmapuri FM 102.5
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Karaikal 100.3
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Kodaikanal FM 100.5
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Madurai FM 103.3
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Madurai PC AM 1269
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Nagercoil Kumari FM 101.0
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Ooty FM 101.8
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio207/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Puducherry PC AM 1215
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Puducherry Rainbow 102.8
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Raagam Carnatic 100.1 FM
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio139/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Tamil Radio
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Tamizha
+http://stream.zeno.fm/mwr7s5x7ma0uv
+#EXTINF:-1 group-title="Tamil Fm",AIR Tiruchirappalli AM 936
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Tiruchirappalli FM 102.1
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Tirunelveli AM 1197
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AIR Tirunelveli Rainbow 102.6
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",AirTamil 90s
+http://stream.zenolive.com/mw96g2eafwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Ajith FM
+http://stream.zeno.fm/ntkhu40k17zuv
+#EXTINF:-1 group-title="Tamil Fm",Ajith Hits
+http://stream.zenolive.com/ntkhu40k17zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Akaram FM
+http://ourfile.info/akaram.mp3
+#EXTINF:-1 group-title="Tamil Fm",Alberta Multiculture Radio
+http://live.exertion.in/radio/8030/amrlive?1612151947
+#EXTINF:-1 group-title="Tamil Fm",American Tamil Radio
+http://69.46.24.226:7188/stream2
+#EXTINF:-1 group-title="Tamil Fm",Anandham FM
+http://stream.zeno.fm/1ddxnnrg0d0uv
+#EXTINF:-1 group-title="Tamil Fm",Anbu FM
+http://node-27.zeno.fm/c2p4f1np4bruv
+#EXTINF:-1 group-title="Tamil Fm",Annai Velankanni Radio
+http://161.97.135.229:8120/stream
+#EXTINF:-1 group-title="Tamil Fm",Anthathi FM
+http://stream.zenolive.com/u1fapvzyrzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Anuradha Sriram Hits
+http://node-35.zeno.fm/vcn3hvqpad0uv
+#EXTINF:-1 group-title="Tamil Fm",Arangam Online
+https://arangamonline.com:10443/yesselradio.mp3
+#EXTINF:-1 group-title="Tamil Fm",ARR Hits HD
+http://stream.zeno.fm/xk3g6h1vsa0uv
+#EXTINF:-1 group-title="Tamil Fm",ARR Radio (Rahman)
+http://s4.radio.gleeze.com:8044/1
+#EXTINF:-1 group-title="Tamil Fm",ARR Rahman HD
+http://node-16.zeno.fm/3z615n343d0uv
+#EXTINF:-1 group-title="Tamil Fm",ARR Rahman Hits
+http://node-23.zeno.fm/p25f2qnswmzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Arumbu FM
+http://stream.zenolive.com/22db1xmde2zuv
+#EXTINF:-1 group-title="Tamil Fm",Asal Tamil FM
+http://stream.zeno.fm/swa83te314zuv
+#EXTINF:-1 group-title="Tamil Fm",Bakthi Raaga
+http://216.245.222.70:1100/stream
+#EXTINF:-1 group-title="Tamil Fm",Bakthi Radio
+http://listen.shoutcast.com/bakthi
+#EXTINF:-1 group-title="Tamil Fm",Beats Radio
+https://n08.radiojar.com/8yx6spzrv4zuv
+#EXTINF:-1 group-title="Tamil Fm",Big FM Jaffna
+https://s5.voscast.com:9539/s5.voscast.com
+#EXTINF:-1 group-title="Tamil Fm",Bisme Radio
+https://streamer.radio.co/sd1d492743/low
+#EXTINF:-1 group-title="Tamil Fm",Captain FM
+http://stream.zenolive.com/ae0r72huttzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Chellam FM
+http://192.95.18.39:5012/stream2Title1
+#EXTINF:-1 group-title="Tamil Fm",CMR Tamil HD
+http://live.cmr24.net:8081/CMR/CMR-HQ/icecast.audio
+#EXTINF:-1 group-title="Tamil Fm",Covai FM
+http://node-28.zeno.fm/kzd2e3tx24zuv
+#EXTINF:-1 group-title="Tamil Fm",Cuddalore FM
+http://stream.zenolive.com/dmvdbthrgzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",D Imman Hits
+http://node-19.zeno.fm/hshybuuf17zuv
+#EXTINF:-1 group-title="Tamil Fm",Dance Hits
+http://node-27.zeno.fm/rbur8stwnqzuv
+#EXTINF:-1 group-title="Tamil Fm",Dance Tamizha FM
+http://stream.zeno.fm/2zzz7qre56duv
+#EXTINF:-1 group-title="Tamil Fm",Danush Hits
+http://node-33.zeno.fm/yx47pwgbbnruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Dappa Radio
+http://stream.zenolive.com/3edyxbyvywzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Deiveegam Radio
+http://161.97.135.229:8060/stream
+#EXTINF:-1 group-title="Tamil Fm",Delta FM
+http://stream.zenolive.com/zp16r96rgzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Deva Radio
+http://stream.zeno.fm/ax0k40z8vp8uv
+#EXTINF:-1 group-title="Tamil Fm",Devakottai FM
+http://stream.zeno.fm/g93qqb9y9p8uv
+#EXTINF:-1 group-title="Tamil Fm",Dhanush FM
+http://stream.zenolive.com/yx47pwgbbnruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Dharisanam FM
+http://stream.zeno.fm/2r9w3gumhm8uv
+#EXTINF:-1 group-title="Tamil Fm",Dheen Osai Radio
+http://stream.zenolive.com/1q8nqmk8fwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Dheepam FM
+http://stream.zeno.fm/hszf3agf0k8uv
+#EXTINF:-1 group-title="Tamil Fm",Dj Shifan Sc
+http://stream.zenolive.com/dsdb1twe8ueuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Don FM
+http://stream.zenolive.com/xngfrrbtzwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",DSRFM Radio
+http://ample-zeno-01.radiojar.com/ve5ea9yurreuv
+#EXTINF:-1 group-title="Tamil Fm",Eagle FM
+http://streaming.radio.co/sf833cd785/listen
+#EXTINF:-1 group-title="Tamil Fm",Echo FM Madurai
+http://stream.zenolive.com/re81azywy1zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",eGiftTree FM
+http://s5.voscast.com:10096/stream
+#EXTINF:-1 group-title="Tamil Fm",Empty Satti FM
+http://stream.zenolive.com/c268x7m1qzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",EnterTUNEment Radio
+http://stream.zenolive.com/9t2rhqbs4zquv.aac
+#EXTINF:-1 group-title="Tamil Fm",Erode City FM
+http://stream.zeno.fm/vt2qb93f0d0uv
+#EXTINF:-1 group-title="Tamil Fm",ETR Radio
+http://37.187.93.104:8054/stream
+#EXTINF:-1 group-title="Tamil Fm",Eye Tamil Radio
+http://streams.radio.co/s937ac5492/listen
+#EXTINF:-1 group-title="Tamil Fm",Flash Back Tamil FM
+http://stream.zenolive.com/aehwx1t2wwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",FM Rainbow Chennai
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Gaana Songs FM
+http://stream.zeno.fm/261p9vdsfnzuv
+#EXTINF:-1 group-title="Tamil Fm",GTC FM
+https://usa13.fastcast4u.com/proxy/gtcfm?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Guru Raghavendra Bhakti Radio
+http://192.184.9.158:8231/stream
+#EXTINF:-1 group-title="Tamil Fm",GV Prakash Hits
+http://node-15.zeno.fm/d5skwct7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",GV Prakash Hits
+http://stream.zenolive.com/d5skwct7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",HaHa FM
+http://stream.zenolive.com/dmxzm5tzg3quv.aac
+#EXTINF:-1 group-title="Tamil Fm",Harris Jayaraj FM
+http://stream.zeno.fm/8wkrrzewqp8uv
+#EXTINF:-1 group-title="Tamil Fm",Harris Jayaraj Hits
+http://stream.zeno.fm/0bhsthssutzuv
+#EXTINF:-1 group-title="Tamil Fm",HD Tamil Hits
+http://stream.zenolive.com/855rng6k7tzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Hip Hop Tamizha
+http://node-15.zeno.fm/yhu9x9s7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Hosur FM
+https://hosurfm-spiritualfm2.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Hosur Thedal FM
+http://hosurthedalfm-spiritualfm2.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Hot FM
+http://stream.zenolive.com/knf23sxrtzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Ilamai FM
+http://stream.zenolive.com/0e1hpuh2t9duv.aac
+#EXTINF:-1 group-title="Tamil Fm",Ilangai Vanoli
+https://ilangaivaanoli1.out.airtime.pro/ilangaivaanoli1_b
+#EXTINF:-1 group-title="Tamil Fm",Ilayaraja FM
+http://stream.zenolive.com/pwm9y3eud5zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",IlayaRaja HD
+http://node-35.zeno.fm/uayzbqr53d0uv
+#EXTINF:-1 group-title="Tamil Fm",IlayaRaja Radio
+http://live.tamilkuyilradio.com:8026/rajaradio
+#EXTINF:-1 group-title="Tamil Fm",Ilayaraja Radio (IR Radio)
+http://s4.radio.gleeze.com:8042/1
+#EXTINF:-1 group-title="Tamil Fm",IlayaRaja Voice
+http://node-22.zeno.fm/6uu92upp07zuv
+#EXTINF:-1 group-title="Tamil Fm",Inbathamil oli
+http://192.99.17.12:4626/inbathamil
+#EXTINF:-1 group-title="Tamil Fm",Innisai FM
+https://ec2.yesstreaming.net:1955/stream
+#EXTINF:-1 group-title="Tamil Fm",Isai FM
+http://stream.zeno.fm/7b78sdv2x1zuv
+#EXTINF:-1 group-title="Tamil Fm",Isaitamil Radio
+http://stream.zenolive.com/8v5m3d74bzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Iyal FM
+https://radio.openwayfm.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Tamil Fm",iYaliSai Bakthi FM
+http://curiosity.shoutca.st:9655/mp64
+#EXTINF:-1 group-title="Tamil Fm",iYaliSai FM
+http://andromeda.shoutca.st:9350/mp96
+#EXTINF:-1 group-title="Tamil Fm",Janaki Hits
+http://node-17.zeno.fm/um4xu89qz7zuv
+#EXTINF:-1 group-title="Tamil Fm",Jipmer Radio
+https://d1d1ao70vmf9ux.cloudfront.net/jipmer.m3u8
+#EXTINF:-1 group-title="Tamil Fm",JP Chandrababu Hits
+http://stream.zeno.fm/knuruqv62d0uv
+#EXTINF:-1 group-title="Tamil Fm",K J Yesudas
+http://node-04.zeno.fm/cm41kq2trg0uv.aac
+#EXTINF:-1 group-title="Tamil Fm",K J Yesudas Radio
+http://stream.zeno.fm/cm41kq2trg0uv
+#EXTINF:-1 group-title="Tamil Fm",Kalai FM
+http://stream.zenolive.com/2vghnwshsqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Kalvi Radio
+http://n01.radiojar.com/dd3khds3tm0uv
+#EXTINF:-1 group-title="Tamil Fm",Kamal Hits
+http://node-08.zeno.fm/xwkm87dn8mruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Kamal Radio
+http://stream.zenolive.com/xwkm87dn8mruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Kannadasan Radio
+http://stream.zenolive.com/hzhxzhznxmzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Karthi Hits
+http://node-23.zeno.fm/5h1wqdu7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Karthi Radio
+http://stream.zenolive.com/5h1wqdu7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Karur Thedal FM
+http://play.karur.thedalfm.com
+#EXTINF:-1 group-title="Tamil Fm",Kathir FM
+http://stream.zeno.fm/nwga0bxxnrquv
+#EXTINF:-1 group-title="Tamil Fm",Kenie FM
+http://stream.zenolive.com/sgksxe0hzeruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Kodai Ragam FM
+http://161.97.135.229:8300/stream
+#EXTINF:-1 group-title="Tamil Fm",Kodaicity FM
+http://161.97.135.229:8290/stream
+#EXTINF:-1 group-title="Tamil Fm",KS Chitra Hits
+http://node-05.zeno.fm/aad4e51qz7zuv
+#EXTINF:-1 group-title="Tamil Fm",KS Chitra Radio
+http://stream.zeno.fm/aad4e51qz7zuv
+#EXTINF:-1 group-title="Tamil Fm",Kummalam Radio
+http://kummalam.stream.laut.fm/kummalam
+#EXTINF:-1 group-title="Tamil Fm",Kuvalai FM
+https://kuvalai.com/radio/stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Life FM
+http://stream.zeno.fm/k0qrmtts91zuv
+#EXTINF:-1 group-title="Tamil Fm",Lion Tamil Radio
+http://stream.zeno.fm/qtadbnkgeq8uv
+#EXTINF:-1 group-title="Tamil Fm",London Tamil Radio
+https://eu4.fastcast4u.com/proxy/arun2115?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",LoveDa FM
+http://stream.zenolive.com/nmdrk7ah7yzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Maatram FM
+http://stream.zenolive.com/4fvebsdxxwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Madura Malli FM
+http://live.tamilkuyilradio.com:8030/maduramallifm
+#EXTINF:-1 group-title="Tamil Fm",Madurai Hello FM 106.4
+http://node-35.zeno.fm/7a3d4s28ptzuv
+#EXTINF:-1 group-title="Tamil Fm",Mafia FM
+http://stream.zeno.fm/9hzv9674vwzuv
+#EXTINF:-1 group-title="Tamil Fm",Magizh Asia
+http://stream.zenolive.com/vqq7av4d8yzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Magizhchi FM
+https://usa15.fastcast4u.com/proxy/magizhchifm?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",MalaiOli Radio
+http://66.70.245.224:8016/stream
+#EXTINF:-1 group-title="Tamil Fm",Malaiyagam FM
+https://malayagamfm.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Maldives Radio
+http://stream.zenolive.com/2ys840qr1qzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Manavai FM
+http://stream.zenolive.com/7dzdbywn0wzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Mano Hits FM
+http://node-07.zeno.fm/1k13vschknzuv
+#EXTINF:-1 group-title="Tamil Fm",Maruthani Tamil FM
+http://stream.zenolive.com/90n9qb1pn2zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Mazhai FM
+http://stream.zeno.fm/yu4c9ms3h2zuv
+#EXTINF:-1 group-title="Tamil Fm",Mellisai FM
+http://stream.zenolive.com/e9hsbbbey4zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Mersey Radio FM
+https://ec1.yesstreaming.net:1250/stream
+#EXTINF:-1 group-title="Tamil Fm",MGR Hits
+http://node-33.zeno.fm/g6f2rwywfnzuv
+#EXTINF:-1 group-title="Tamil Fm",MGR Hits Radio
+http://stream.zenolive.com/7eg90y3qshruv.aac
+#EXTINF:-1 group-title="Tamil Fm",MGR Radio
+http://stream.zeno.fm/g2s9ezakxs8uv
+#EXTINF:-1 group-title="Tamil Fm",Minnal FM 92.3
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Mjoy FM
+http://stream.zeno.fm/e7yqb8fe84zuv
+#EXTINF:-1 group-title="Tamil Fm",Mohan Hits Radio
+http://stream.zeno.fm/tx3pwp1k7mzuv
+#EXTINF:-1 group-title="Tamil Fm",Moon FM
+http://stream.zenolive.com/8wazf27c9mzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",MS Vishwanathan Hits
+http://node-32.zeno.fm/axc31zbdswzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Mufliheen FM
+http://stream.zeno.fm/y0menxkyng8uv
+#EXTINF:-1 group-title="Tamil Fm",Mukil FM
+http://stream.zeno.fm/phv06yfkwzzuv
+#EXTINF:-1 group-title="Tamil Fm",Murugan FM
+http://stream.zenolive.com/0r7u1fcn8mruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Muslim Vaanoli
+http://s2.voscast.com:9356/stream
+#EXTINF:-1 group-title="Tamil Fm",Muthamil Fm 88.9 HD3
+https://ice66.securenetsystems.net/MUTHAMIL
+#EXTINF:-1 group-title="Tamil Fm",Muthamizh FM Melur
+http://stream.zenolive.com/vgsk3a0pb2zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Na.Muthukumar HD
+http://stream.zeno.fm/7a4x04fgdq8uv
+#EXTINF:-1 group-title="Tamil Fm",Naan FM
+http://node-22.zeno.fm/swgzh04zbg0uv
+#EXTINF:-1 group-title="Tamil Fm",Nadhi FM
+http://stream.zenolive.com/ykw5dmubazzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Nadodi FM
+http://stream.zenolive.com/6hv2bbm1rzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Nagapattinam Nanbargal FM
+http://node-27.zeno.fm/xyw4mnd8ntzuv
+#EXTINF:-1 group-title="Tamil Fm",Nakshatra Radio
+http://19233.live.streamtheworld.com/NAKSHATRA_S01AAC_SC
+#EXTINF:-1 group-title="Tamil Fm",Nalla Music Radio
+http://stream.zenolive.com/t797kdug7zquv.aac
+#EXTINF:-1 group-title="Tamil Fm",Namathu FM
+http://198.178.123.8:10526/stream
+#EXTINF:-1 group-title="Tamil Fm",Namba Tamil FM
+https://streamer.radio.co/s688f110d0/listen
+#EXTINF:-1 group-title="Tamil Fm",Namma radio
+http://stream.zenolive.com/cwgesdu01uquv
+#EXTINF:-1 group-title="Tamil Fm",Natrinai FM
+https://centova32.instainternet.com/proxy/sasi?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Nattupura Pattu FM
+http://stream.zenolive.com/t7wmtudgthruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Nellai Tamil FM
+http://stream.zenolive.com/5nu139840tzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Nila FM
+http://stream.zenolive.com/8vcdps05krruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Nilacharal Isaithoranam FM
+http://stream.zenolive.com/ens4ekkw7druv.aac
+#EXTINF:-1 group-title="Tamil Fm",Nisath FM
+http://stream.zeno.fm/v6mwdn1kcd0uv
+#EXTINF:-1 group-title="Tamil Fm",Nj Sunrise Radio
+https://njsunrise.out.airtime.pro/njsunrise_a
+#EXTINF:-1 group-title="Tamil Fm",Nutpam FM
+http://fluoz-04.radiojar.com/6n3s2gfguqruv
+#EXTINF:-1 group-title="Tamil Fm",OldGold Radio Cockoo
+http://live.tamilkuyilradio.com:8002/oldgoldradio
+#EXTINF:-1 group-title="Tamil Fm",Oli Chithram
+http://stream.zenolive.com/62yp8hvqa2zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Oli FM Singapore
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac
+#EXTINF:-1 group-title="Tamil Fm",Oli FM SriLanka
+http://stream.zenolive.com/1gwks8nf7tzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",OM Radio
+http://19233.live.streamtheworld.com/OMRADIO_S01AAC_SC
+#EXTINF:-1 group-title="Tamil Fm",Osai FM Radio
+http://astro4.rastream.com/osai
+#EXTINF:-1 group-title="Tamil Fm",P Susheela Hits
+http://node-28.zeno.fm/tmq9kydsy7zuv
+#EXTINF:-1 group-title="Tamil Fm",Paadu Nilavae Tamil Radio
+http://stream.zeno.fm/8hrzqn65pa0uv
+#EXTINF:-1 group-title="Tamil Fm",Paasam FM
+http://stream.zeno.fm/nkb65rhqbrzuv
+#EXTINF:-1 group-title="Tamil Fm",Pattas Radio
+https://listen.radioking.com/radio/355459/stream/404740
+#EXTINF:-1 group-title="Tamil Fm",Pattukottai Kalyana Sundaram
+http://stream.zeno.fm/38mnd0uqvzzuv
+#EXTINF:-1 group-title="Tamil Fm",Periyava Vanoli
+http://stream.zeno.fm/ark0f47urg0uv
+#EXTINF:-1 group-title="Tamil Fm",Planet Radio City
+https://prclive4.listenon.in/Tamil
+#EXTINF:-1 group-title="Tamil Fm",Provi Air FM
+http://stream.zenolive.com/syzuavk9xzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Pullingo Radio (Gaana songs)
+http://stream.zeno.fm/rademrq2kwzuv
+#EXTINF:-1 group-title="Tamil Fm",QFM Tamil
+http://stream.zenolive.com/mym2mcp0bg0uv.aac
+#EXTINF:-1 group-title="Tamil Fm",Radio B3
+http://stream.zenolive.com/rfg9e5mxdzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat
+https://listen.openstream.co/3372/audio
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat Love
+http://live.exertion.in:8020/radio.mp3
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat Retro
+http://str2b.openstream.co/1520
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat Tamil FM
+http://str2b.openstream.co/673
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat Thaalam
+http://live.exertion.in:8050/radio.mp3
+#EXTINF:-1 group-title="Tamil Fm",Radio City Faith FM
+http://prclive1.listenon.in:8830/
+#EXTINF:-1 group-title="Tamil Fm",Radio Hanifa
+http://161.97.135.229:8110/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio Mist Ooty
+http://stream.zeno.fm/81gn28sbna0uv
+#EXTINF:-1 group-title="Tamil Fm",Radio Paramankurichi
+https://vpmurugun.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio Petti 5.1
+http://stream.zeno.fm/2fu5y69usa0uv
+#EXTINF:-1 group-title="Tamil Fm",Radio Suno
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3
+#EXTINF:-1 group-title="Tamil Fm",Radio Suranjali
+http://stream.zenolive.com/5bewttnnq7zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Radio Tamizha FM
+http://107.182.231.73:7182/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio Thamil FM105.9 HD4
+http://198.178.123.14:10116/stream
+#EXTINF:-1 group-title="Tamil Fm",Raja FM
+http://stream.zeno.fm/476bw00re5zuv
+#EXTINF:-1 group-title="Tamil Fm",Rajini FM
+http://stream.zenolive.com/cu5tt989ghruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Rajini Hits
+http://node-35.zeno.fm/cu5tt989ghruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Ramarajan FM
+http://node-27.zeno.fm/kss7vuw7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Raone Radio
+https://castcloud.pvtwebs.com/proxy/rajahra5?mp=/live
+#EXTINF:-1 group-title="Tamil Fm",Rix Tamil Radio
+http://stream.zenolive.com/vz0qvh09nzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Roja FM
+http://stream.zenolive.com/a73wf2hc1eruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Roma Radio
+http://stream.zeno.fm/0g9s11z7sd0uv
+#EXTINF:-1 group-title="Tamil Fm",Roobam FM
+http://s3.radio.co/sadfae7495/listen
+#EXTINF:-1 group-title="Tamil Fm",S A Rajkumar
+http://node-15.zeno.fm/f072hbrf17zuv
+#EXTINF:-1 group-title="Tamil Fm",S FM Comedy
+http://node-17.zeno.fm/tmgktm50dzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",SA Tamil Radio
+http://stream.zenolive.com/t90smu546qzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sad Songs FM
+http://node-34.zeno.fm/6d9pqw5mshruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sai Dheepam FM
+http://stream.zeno.fm/ut4syfwb1k8uv
+#EXTINF:-1 group-title="Tamil Fm",Sangamum Radio
+https://eu2.fastcast4u.com/proxy/sangamum?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Sangeeth FM
+http://stream.zenolive.com/2npurhbtu4zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sen Tamil FM
+http://stream.zeno.fm/5yf5swm7u7zuv
+#EXTINF:-1 group-title="Tamil Fm",Settai FM
+http://stream.zeno.fm/b0qy1rp884zuv
+#EXTINF:-1 group-title="Tamil Fm",Shaivam Radio
+https://19293.live.streamtheworld.com/SP_R2923580_SC
+#EXTINF:-1 group-title="Tamil Fm",Shyam FM
+http://stream.zeno.fm/zug8fwdfmzzuv
+#EXTINF:-1 group-title="Tamil Fm",Sid Sriram Hits
+http://node-06.zeno.fm/mdyd8bvm7zquv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sid Sriram Radio
+http://stream.zenolive.com/mdyd8bvm7zquv.aac
+#EXTINF:-1 group-title="Tamil Fm",Siddhar Radio
+http://stream.zenolive.com/ur1xmt8hvzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Silukku FM
+http://stream.zenolive.com/sefbv5dc84zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Simbu FM
+http://node-32.zeno.fm/apkvsev7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Simbu Radio
+http://stream.zenolive.com/apkvsev7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sirpi FM
+http://161.97.135.229:8040/stream
+#EXTINF:-1 group-title="Tamil Fm",Siruthai FM
+https://eu3.fastcast4u.com/proxy/skajanee?mp=/;b
+#EXTINF:-1 group-title="Tamil Fm",Siva Karthikeyan Radio
+http://stream.zenolive.com/0wayd5u7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sivaji FM
+http://stream.zenolive.com/7pv7wc6nzmruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sivaji Hits Radio
+http://node-19.zeno.fm/7pv7wc6nzmruv.aac
+#EXTINF:-1 group-title="Tamil Fm",SivaKarthikeyan Hits
+http://node-10.zeno.fm/0wayd5u7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",SLBC Tamil FM
+http://220.247.227.20:8000/Threndralstream
+#EXTINF:-1 group-title="Tamil Fm",SLBC Tamila National Service
+http://220.247.227.6:8000/Tnsstream
+#EXTINF:-1 group-title="Tamil Fm",Soup FM Malaysia
+http://usa7.fastcast4u.com:8808/soupfm
+#EXTINF:-1 group-title="Tamil Fm",SPB FM
+http://stream.zeno.fm/kx36e0ynwmzuv
+#EXTINF:-1 group-title="Tamil Fm",SPB FM
+http://node-07.zeno.fm/72vav37p5a0uv.aac
+#EXTINF:-1 group-title="Tamil Fm",SPB Hits
+http://stream.zenolive.com/w2r2z0x547zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",SPB Radio HD
+http://stream.zeno.fm/365z6tukxs8uv
+#EXTINF:-1 group-title="Tamil Fm",Sri Ramanasramam FM
+http://78.129.159.25:8121/stream
+#EXTINF:-1 group-title="Tamil Fm",Srijayam FM
+http://stream.zeno.fm/3m8um2tgpm0uv
+#EXTINF:-1 group-title="Tamil Fm",SRS Tamil Radio
+http://stream.zenolive.com/gzn28dwq01zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",SS Radio
+http://stream.zeno.fm/ugw24emhx4zuv
+#EXTINF:-1 group-title="Tamil Fm",Star Radio Tamil
+https://n05.radiojar.com/7pzbvyzb7a0uv
+#EXTINF:-1 group-title="Tamil Fm",Sugi Sivam FM
+http://stream.zenolive.com/hu2dkwm4whruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sujatha Radio
+http://stream.zenolive.com/r56fx9v7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sun Tamil Radio
+http://stream.zenolive.com/yavek61461zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Supreme FM
+http://stream.zenolive.com/g7sx7w7dmzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Suriya Radio
+http://stream.zenolive.com/t0pw6men8mruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Surya Hits
+http://node-14.zeno.fm/t0pw6men8mruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Swarnalatha Hits
+http://node-11.zeno.fm/07ys8tp6hqzuv
+#EXTINF:-1 group-title="Tamil Fm",Sweden Tamils FM
+https://www.radioking.com/play/sweden-tamils-fm/404626
+#EXTINF:-1 group-title="Tamil Fm",T Rajender FM
+http://node-12.zeno.fm/m72nef1hpd0uv
+#EXTINF:-1 group-title="Tamil Fm",Talking FM Thamizhan
+http://stream.zenolive.com/030af9nq0wzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tamil 2021 Latest Hits
+http://stream.zeno.fm/dkxftg6k7tzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tamil 70s Hits
+http://stream.zeno.fm/0wdkrs8e4p8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil 80s and 90 Hits
+http://stream.zeno.fm/hneqfaxgr2zuv
+#EXTINF:-1 group-title="Tamil Fm",Tamil 80s Hits
+http://stream.zeno.fm/0e8qgx8e4p8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Bakthi Radio
+http://stream.zenolive.com/bpc3ucypmm0uv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Chennai Radio
+http://stream.zeno.fm/k9e5pmbktp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Covai Radio
+http://stream.zeno.fm/dzxv07vktp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Kovilpatti Radio
+http://stream.zeno.fm/4cmhxc3ktp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Life Radio
+http://stream.zeno.fm/0x1cks0cup8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Madurai Radio
+http://stream.zeno.fm/utmhndkgtp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Mellisai Radio
+http://stream.zenolive.com/bfh4ywts2f8uv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Nellai Radio
+http://stream.zeno.fm/gdkvpstgtp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Radio
+http://stream.zenolive.com/p88vvwd0gm0uv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Sivakasi Radio
+http://stream.zeno.fm/nxggffwgtp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Thullisai Radio
+http://stream.zenolive.com/e6acrqrq2f8uv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Trichy Radio
+http://stream.zeno.fm/feyrkb9htp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Comedy Radio
+http://stream.zeno.fm/w006vfqa4qzuv
+#EXTINF:-1 group-title="Tamil Fm",Tamil FM
+http://shaincast.caster.fm:47814/listen.mp3
+#EXTINF:-1 group-title="Tamil Fm",Tamil Hits HD
+http://stream.zeno.fm/mvb6074ntp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Islam FM
+http://stream.zeno.fm/90u7w7hshm8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Max FM
+http://stream.zenolive.com/bdsf37kcewzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tamil Murasam Radio
+http://tamilmurasam.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Tamil Panpalai Africa
+http://opportunity.shoutca.st:8140/afr
+#EXTINF:-1 group-title="Tamil Fm",Tamil Panpalai India
+http://opportunity.shoutca.st:8140/ind
+#EXTINF:-1 group-title="Tamil Fm",Tamil Panpalai New Zealand
+http://opportunity.shoutca.st:8140/stream
+#EXTINF:-1 group-title="Tamil Fm",Tamil Vaanoli
+http://178.32.107.151:2723/stream
+#EXTINF:-1 group-title="Tamil Fm",Tamilakaram Radio
+http://tamilakaram.radioca.st/stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Tamilan Vaanoli
+https://str2b.openstream.co/2377
+#EXTINF:-1 group-title="Tamil Fm",TamilKuyil FM
+http://live.tamilkuyilradio.com:8095/tamilkuyil
+#EXTINF:-1 group-title="Tamil Fm",Tamilkuyil Tamil Comedy Radio
+http://live.tamilkuyilradio.com:8035/tamilcomedyradio
+#EXTINF:-1 group-title="Tamil Fm",Tamilosai FM
+https://usa15.fastcast4u.com/proxy/tamilosaifm?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Thalapathy Radio
+http://stream.zeno.fm/3w6g61p7pa0uv
+#EXTINF:-1 group-title="Tamil Fm",Thambi FM
+http://stream.zeno.fm/r1m0u429e2zuv
+#EXTINF:-1 group-title="Tamil Fm",Thanthi TV
+http://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live4/chunks.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Thayagam Tamil Oli FM
+http://46.28.53.118:7019/thayagam48K
+#EXTINF:-1 group-title="Tamil Fm",The Leader FM
+http://stream.zenolive.com/whwy245c2wzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",The Tamil Radio Bahrain
+https://listen.radioking.com/radio/378484/stream/429241
+#EXTINF:-1 group-title="Tamil Fm",The Tamil Radio Kuwait
+https://listen.radioking.com/radio/378493/stream/429268
+#EXTINF:-1 group-title="Tamil Fm",The Tamil Radio Qatar
+https://listen.radioking.com/radio/378487/stream/429250
+#EXTINF:-1 group-title="Tamil Fm",The Tamil Radio Saudi Arabia
+https://listen.radioking.com/radio/378490/stream/429259
+#EXTINF:-1 group-title="Tamil Fm",The Tamil Radio UAE
+https://listen.radioking.com/radio/378481/stream/429232
+#EXTINF:-1 group-title="Tamil Fm",Theen Tamil Osai
+https://eu2.fastcast4u.com/proxy/theentamil?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Thenaruvi FM
+https://eu8.fastcast4u.com/proxy/thenaruvifm?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Thendral Radio
+http://stream.zeno.fm/xzt706p3h2zuv
+#EXTINF:-1 group-title="Tamil Fm",Thenkaasi FM
+http://stream.zeno.fm/1wq6xebz6k0uv
+#EXTINF:-1 group-title="Tamil Fm",Thenral World Radio
+http://37.187.79.93:9116/stream
+#EXTINF:-1 group-title="Tamil Fm",THIRAI FM
+http://stream.zenolive.com/1s14uqy4ya0uv.aac
+#EXTINF:-1 group-title="Tamil Fm",Thirukural Radio
+http://stream.zenolive.com/ehthqswavhruv
+#EXTINF:-1 group-title="Tamil Fm",Thowheed FM
+http://stream.zeno.fm/1ke9f6hshm8uv
+#EXTINF:-1 group-title="Tamil Fm",THR Raaga 103.7 FM
+http://astro3.rastream.com/raaga
+#EXTINF:-1 group-title="Tamil Fm",TMS Hits
+http://node-30.zeno.fm/e40m0ec63d0uv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tube Tamil FM
+http://s2.voscast.com:12084/.mp3
+#EXTINF:-1 group-title="Tamil Fm",UBC Tamil Radio
+https://radio.openwayfm.com/radio/8030/radio.mp3
+#EXTINF:-1 group-title="Tamil Fm",UE-Vaanoli
+http://stream.zenolive.com/ybgznze4hwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",ULLasam FM
+https://usa1.fastcast4u.com/proxy/ullasamfm?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",US Tamil FM
+http://streaming.radio.co/s0cfc93915/listen
+#EXTINF:-1 group-title="Tamil Fm",Uthamiyae FM
+http://stream.zenolive.com/wd3ruqk171zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vaagai Vaanoli
+https://vaagai.radioca.st/stream2/listen
+#EXTINF:-1 group-title="Tamil Fm",Vaanosai FM
+http://stream.zenolive.com/7aswfbpx25quv
+#EXTINF:-1 group-title="Tamil Fm",Vaanpura Tamil Radio
+http://49.12.129.103:7028/stream
+#EXTINF:-1 group-title="Tamil Fm",Vaariyaar Radio
+http://stream.zenolive.com/su1uch6mb2zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vaigai FM
+http://stream.zeno.fm/x94nymrwaq8uv
+#EXTINF:-1 group-title="Tamil Fm",Valasu FM
+http://stream.zenolive.com/d0f0ass2qzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vanavil ARR Radio
+https://s7.yesstreaming.net:8038/stream
+#EXTINF:-1 group-title="Tamil Fm",Vanavil Bakthi Radio
+https://ec1.yesstreaming.net:1810/stream
+#EXTINF:-1 group-title="Tamil Fm",Vanavil FM
+https://s7.yesstreaming.net:9000/stream
+#EXTINF:-1 group-title="Tamil Fm",Varnalai FM
+http://stream.zenolive.com/rf6zryk08vzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vasantha Ragam FM
+http://stream.zenolive.com/xpbsngksa2zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vasantham FM
+https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream
+#EXTINF:-1 group-title="Tamil Fm",Velini FM
+http://stream.zenolive.com/w2v3m8bs01zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vellur FM
+http://stream.zenolive.com/z394fckpzwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vijay Antony Hits
+http://node-11.zeno.fm/7w4w5kt7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vijay Antony Radio
+http://stream.zenolive.com/7w4w5kt7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vijay Hits
+http://node-25.zeno.fm/gs5w5vfzbg0uv
+#EXTINF:-1 group-title="Tamil Fm",Vijay Love Hit
+http://stream.zenolive.com/5kbb41cyfnruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vijay Radio
+http://stream.zeno.fm/gs5w5vfzbg0uv
+#EXTINF:-1 group-title="Tamil Fm",Vijay Sethupathi Hits
+http://node-07.zeno.fm/df8edgu7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vijay Sethupathi Radio
+http://stream.zenolive.com/df8edgu7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vijayakanth FM
+http://node-25.zeno.fm/d8cubkw7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vijaykanth Radio
+http://stream.zenolive.com/d8cubkw7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vikiram Radio
+http://stream.zenolive.com/fyved2u7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vikram FM
+http://node-26.zeno.fm/fyved2u7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vilathikulam Thendral FM
+http://node-09.zeno.fm/cgc8p9v6hrruv
+#EXTINF:-1 group-title="Tamil Fm",Virudhunagar Web Radio
+http://stream.zeno.fm/tqexarbk8k8uv
+#EXTINF:-1 group-title="Tamil Fm",Virutcham FM
+http://stream.zenolive.com/h0fmkfse1d0uv.aac
+#EXTINF:-1 group-title="Tamil Fm",Visai Radio
+https://c7.radioboss.fm:18019/stream
+#EXTINF:-1 group-title="Tamil Fm",Vishal Radio
+http://stream.zenolive.com/fcwevav7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vivasayi Radio
+https://ais-edge07-live365-dal02.cdnstream.com/a20052
+#EXTINF:-1 group-title="Tamil Fm",Viviksha Fm
+http://stream.zeno.fm/d9k29df02yzuv
+#EXTINF:-1 group-title="Tamil Fm",Voice Of Chennai Radio
+http://149.56.234.136:9928/stream
+#EXTINF:-1 group-title="Tamil Fm",VR AIR FM
+http://stream.zenolive.com/gguu1dqsbwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Wisdom Radio
+http://165.22.217.209/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Tamil Fm",Yaal FM
+http://220.247.227.6:8000/Yaalstream
+#EXTINF:-1 group-title="Tamil Fm",Yaazhisai FM Radio
+http://stream.zeno.fm/nxb2dpmmhm8uv
+#EXTINF:-1 group-title="Tamil Fm",Yet Radio
+http://107.182.231.73:7074/stream
+#EXTINF:-1 group-title="Tamil Fm",Yugam Radio
+http://stream.zenolive.com/xdkptdv5dpeuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Yuvan Shanjar Raja YSR
+http://node-28.zeno.fm/s0zmttxun7zuv
+#EXTINF:-1 group-title="Tamil Fm",Yuvan Shankar Raja Radio
+http://stream.zeno.fm/28pezsqn5a0uv
+#EXTINF:-1 group-title="Tamil Fm",2K Radio
+http://apipermission.southradios.net/play/2kradio
+#EXTINF:-1 group-title="Tamil Fm",A.R.RAHMAN FM
+https://stream.zeno.fm/xk3g6h1vsa0uv.m3u
+#EXTINF:-1 group-title="Tamil Fm",A.R.Rahman Lite Radio
+http://apipermission.southradios.net/play/arrahmanliteradio
+#EXTINF:-1 group-title="Tamil Fm",A.R.Rahman Radio
+http://apipermission.southradios.net/play/arrahmanradio
+#EXTINF:-1 group-title="Tamil Fm",A9 NEW HITS FM
+https://a9newhits-a9media.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",A9 Radio
+https://a9radio1-a9media.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",A9 Radio Old Hits
+https://a9oldhits-a9media.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",A9 Tamil Radio
+http://195.154.217.103:8175/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",ABC Tamil FM
+https://eu8.fastcast4u.com/proxy/ailevdcu?mp=/1&1593269300475
+#EXTINF:-1 group-title="Tamil Fm",ABC Tamil online
+https://eu8.fastcast4u.com/proxy/ailevdcu?mp=/;
+#EXTINF:-1 group-title="Tamil Fm",Air Tuticorin 105.7 Live
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Ajith Radio
+http://apipermission.southradios.net/play/ajithradio
+#EXTINF:-1 group-title="Tamil Fm",Akaram Online FM
+https://ourfile.info/akaram.mp3
+#EXTINF:-1 group-title="Tamil Fm",Akaram Radio Norway
+https://stream.zenolive.com/35y7r12fwzzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Amen FM
+http://ice7.securenetsystems.net/AMENFM?type=.flv&autoplay=1&autoload=1
+#EXTINF:-1 group-title="Tamil Fm",Amercian Tamil Radio FM
+http://69.46.24.226:7188/stream
+#EXTINF:-1 group-title="Tamil Fm",American Tamil Radio
+http://69.46.24.226:7188/stream?1514743655185
+#EXTINF:-1 group-title="Tamil Fm",Anandham Fm
+http://node-33.zeno.fm/1ddxnnrg0d0uv?rj-ttl=5&rj-tok=AAABeTad45IAT8Za1hu1nzDebQ
+#EXTINF:-1 group-title="Tamil Fm",Anboli FM France
+http://stream.zenolive.com/nr0vff5w8qzuv
+#EXTINF:-1 group-title="Tamil Fm",Anbu FM
+http://stream.zeno.fm/5csru2np4bruv
+#EXTINF:-1 group-title="Tamil Fm",Anirudh Radio
+http://apipermission.southradios.net/play/anirudhradio
+#EXTINF:-1 group-title="Tamil Fm",Anuradha Sriram Radio
+http://apipermission.southradios.net/play/anuradhasriramradio
+#EXTINF:-1 group-title="Tamil Fm",APM FM
+https://s24.myradiostream.com/14808/;
+#EXTINF:-1 group-title="Tamil Fm",AR Rahman FM
+http://node-34.zeno.fm/p7b0e3ms97zuv?rj-ttl=5&rj-tok=AAABeTXUiCAAwjrs0dP2G1lWyw
+#EXTINF:-1 group-title="Tamil Fm",Arni City FM online
+https://usa9.fastcast4u.com/proxy/arnifm?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",ARR RADIO
+https://stream.zeno.fm/tdbzsb6mfg0uv.m3u
+#EXTINF:-1 group-title="Tamil Fm",ARR Beat Radio
+http://apipermission.southradios.net/play/arrbeat
+#EXTINF:-1 group-title="Tamil Fm",Arulvakku FM
+https://stream.arulvakku.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Tamil Fm",Arumbu FM online
+http://node-02.zeno.fm/22db1xmde2zuv?rj-ttl=5&rj-tok=AAABeTsqr-MAmh0DT_YnzEmZJg
+#EXTINF:-1 group-title="Tamil Fm",ATBC FM
+http://s7.viastreaming.net:7920/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Athavan Radio
+http://s1.voscast.com:9038/mountpoint
+#EXTINF:-1 group-title="Tamil Fm",Aural Radio HD
+http://stream.zenolive.com/pnafwp8atwzuv
+#EXTINF:-1 group-title="Tamil Fm",Auroville FM
+http://aurovilleradio.org:8000/av-radio-128.mp3
+#EXTINF:-1 group-title="Tamil Fm",Ayyapuram FM online
+https://s24.myradiostream.com/:14808/;
+#EXTINF:-1 group-title="Tamil Fm",Bakthi Vaanoli
+http://173.249.23.30:8010/stream
+#EXTINF:-1 group-title="Tamil Fm",Bathusha Radio
+http://eu8.fastcast4u.com:5320/stream
+#EXTINF:-1 group-title="Tamil Fm",Batti FM
+http://s7.voscast.com:8790/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Big FM
+https://www.liveradio.es/http://51.222.87.239:7200/3
+#EXTINF:-1 group-title="Tamil Fm",Big FM 92.7 Chennai
+http://173.249.17.187:8170/stream
+#EXTINF:-1 group-title="Tamil Fm",Big FM Jaffna
+http://s5.voscast.com:9538/s5.voscast.com
+#EXTINF:-1 group-title="Tamil Fm",British Indian Tamil
+http://node-23.zeno.fm/w8wp06pqbrzuv?rj-ttl=5&rj-tok=AAABeTrYF64AojhCmpuVrob62g
+#EXTINF:-1 group-title="Tamil Fm",British Indian Tamil Radio
+http://stream.zenolive.com/w8wp06pqbrzuv
+#EXTINF:-1 group-title="Tamil Fm",Capital FM
+http://ca4.rcast.net:8060/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Captain FM
+http://stream.zeno.fm/yewqc3huttzuv
+#EXTINF:-1 group-title="Tamil Fm",CCR Radio
+http://5.10.69.98:8014/stream
+#EXTINF:-1 group-title="Tamil Fm",Chandru FM online
+https://cors.bitwize.com.lb/http://eu10.fastcast4u.com:1260/;
+#EXTINF:-1 group-title="Tamil Fm",Charity Radio online
+https://streams.radio.co/sbd36225b4/listen
+#EXTINF:-1 group-title="Tamil Fm",Chellam FM
+https://usa17.fastcast4u.com/proxy/svickine/?mp=/stream2
+#EXTINF:-1 group-title="Tamil Fm",Christhava Geetham
+http://173.249.23.30:8040/stream
+#EXTINF:-1 group-title="Tamil Fm",Club house FM online
+http://node-33.zeno.fm/0atpg26zetzuv?rj-ttl=5&rj-tok=AAABeVrZtfkAs9aDrVcHTYD1vw
+#EXTINF:-1 group-title="Tamil Fm",CMR Canadian FM
+http://live.cmr24.net:8081/CMR/TamilHD-MQ/icecast.audio
+#EXTINF:-1 group-title="Tamil Fm",CMR Canadian FM 2
+http://live.cmr24.net:8081/CMR/CMR-MQ/icecast.audio
+#EXTINF:-1 group-title="Tamil Fm",CMR Tamil HD Radio
+https://live.cmr24.net/CMR/TamilHD-MQ/icecast.audio
+#EXTINF:-1 group-title="Tamil Fm",COMEDY DRAMA RADIO
+https://stream.zeno.fm/0cd9y0zs5tzuv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Console FM
+http://stream.zenolive.com/70vhq8mh8yzuv
+#EXTINF:-1 group-title="Tamil Fm",CTBC Radio
+http://ctbcfmradio.primcast.com:4086/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",CTR 24 Tamil Radio
+http://198.27.66.225:8498/stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Cuddalore Thedal FM
+https://cuddalorethedalfm-spiritualfm2.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Cuddalore Thedal FM
+http://dione.shoutca.st:8940/stream
+#EXTINF:-1 group-title="Tamil Fm",Dance Tamizha Online
+https://str2b.openstream.co/791
+#EXTINF:-1 group-title="Tamil Fm",Deva Radio
+http://apipermission.southradios.net/play/devaradio
+#EXTINF:-1 group-title="Tamil Fm",Dhanush Hits Radio
+https://stream.zenolive.com/yx47pwgbbnruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Dharmapuri Thedal FM
+https://dharmapurithedalfm-spiritualfm2.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Dharmapuri Thedal FM
+http://dione.shoutca.st:8944/stream
+#EXTINF:-1 group-title="Tamil Fm",Don Station FM
+https://stream.zenolive.com/xngfrrbtzwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Dream Share FM
+http://node-07.zeno.fm/5k3r78yurreuv.aac?rj-ttl=5&rj-tok=AAABeTsZLQoAoevLHdc82CisXg
+#EXTINF:-1 group-title="Tamil Fm",Eagle FM online
+https://streaming.radio.co/sf833cd785/listen
+#EXTINF:-1 group-title="Tamil Fm",East FM
+http://174.142.215.249:9966/;
+#EXTINF:-1 group-title="Tamil Fm",Echo FM Madurai
+http://node-19.zeno.fm/cysrxh9y81zuv?rj-ttl=5&rj-tok=AAABeTtnBPwA0BTsqYOt9FQLfg
+#EXTINF:-1 group-title="Tamil Fm",Echo FM Madurai
+http://stream.zeno.fm/cysrxh9y81zuv
+#EXTINF:-1 group-title="Tamil Fm",eGiftTree FM
+https://s5.voscast.com:10097/stream
+#EXTINF:-1 group-title="Tamil Fm",Evergreen Tamil Radio
+http://node-33.zeno.fm/qmtwp07a4qzuv?rj-ttl=5&rj-tok=AAABeWTQaocA-hMxGZhEBXx-hA
+#EXTINF:-1 group-title="Tamil Fm",Eye Tamil Radio
+https://streams.radio.co/s937ac5492/listen
+#EXTINF:-1 group-title="Tamil Fm",FM Kondattam
+http://66.55.145.43:7684/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Friends Tamil Chat FM
+https://usa3.fastcast4u.com/proxy/dhayanib?mp=/;
+#EXTINF:-1 group-title="Tamil Fm",Friends Tamil FM
+http://149.56.157.81:8487/stream
+#EXTINF:-1 group-title="Tamil Fm",Gana Radio
+http://apipermission.southradios.net/play/ganaradio
+#EXTINF:-1 group-title="Tamil Fm",Gilli Radio
+https://str2b.openstream.co/1319
+#EXTINF:-1 group-title="Tamil Fm",Golden Southradios
+http://apipermission.southradios.net/play/goldensouthradios
+#EXTINF:-1 group-title="Tamil Fm",Goundamani Senthil Radio
+http://apipermission.southradios.net/play/goundamanisenthilradio
+#EXTINF:-1 group-title="Tamil Fm",GTBC Radio
+http://38.96.148.140:6150/;
+#EXTINF:-1 group-title="Tamil Fm",GV Prakash Radio
+http://apipermission.southradios.net/play/gvprakashradio
+#EXTINF:-1 group-title="Tamil Fm",Hariharan Radio
+http://apipermission.southradios.net/play/hariharanradio
+#EXTINF:-1 group-title="Tamil Fm",Harris jayaraj Radio
+http://node-33.zeno.fm/0bhsthssutzuv?rj-ttl=5&rj-tok=AAABeTXZp8sAzPk_UJGnMdAj_w
+#EXTINF:-1 group-title="Tamil Fm",Harris Jayaraj Radio
+http://apipermission.southradios.net/play/harrishjeyarajradio
+#EXTINF:-1 group-title="Tamil Fm",Hello FM
+https://cors.bitwize.com.lb/http://51.222.26.111:7200/1
+#EXTINF:-1 group-title="Tamil Fm",Hello FM 106.4 Chennai
+http://stream.zenolive.com/20cv0z9gg0quv
+#EXTINF:-1 group-title="Tamil Fm",Hip Hop Tamizha
+http://stream.zenolive.com/yhu9x9s7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",HITS NEW
+https://stream.zeno.fm/ysmq9svm0wzuv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Hitz FM
+http://astro1.rastream.com/hitz
+#EXTINF:-1 group-title="Tamil Fm",Hosur Thedal FM
+http://dione.shoutca.st:8575/stream
+#EXTINF:-1 group-title="Tamil Fm",HUNGAMA CLASSIC
+http://stream.zeno.fm/qmtwp07a4qzuv.m3u
+#EXTINF:-1 group-title="Tamil Fm",IBC Tamil FM
+http://10454.cloudrad.io:6176/live
+#EXTINF:-1 group-title="Tamil Fm",IBC Tamil Radio
+http://fm.ibctamil.com:6176/stream
+#EXTINF:-1 group-title="Tamil Fm",Ilangai Vaanoli online
+https://ilangaivaanoli1.out.airtime.pro/ilangaivaanoli1_a
+#EXTINF:-1 group-title="Tamil Fm",Ilayamaan Lite Radio
+http://apipermission.southradios.net/play/ilayamaanliteradio
+#EXTINF:-1 group-title="Tamil Fm",Ilayamaan Radio
+http://apipermission.southradios.net/play/ilayamaanradio
+#EXTINF:-1 group-title="Tamil Fm",ILAYARAJA LITE
+https://stream.zeno.fm/89vcv4z8vp8uv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Ilayaraja Lite Radio
+http://apipermission.southradios.net/play/ilayarajalite
+#EXTINF:-1 group-title="Tamil Fm",Ilayaraja Radio
+http://node-16.zeno.fm/pwm9y3eud5zuv.aac?rj-ttl=5&rj-tok=AAABeTXXM64A3c2tUquuY6tkoA
+#EXTINF:-1 group-title="Tamil Fm",Ilayaraja Radio
+http://apipermission.southradios.net/play/ilayarajaradio
+#EXTINF:-1 group-title="Tamil Fm",Ilayaraja Super Beats
+http://apipermission.southradios.net/play/ilayarajasuperbeatradio
+#EXTINF:-1 group-title="Tamil Fm",Imman Radio
+http://apipermission.southradios.net/play/immanradio
+#EXTINF:-1 group-title="Tamil Fm",Inba Tamil Oli Radio
+https://usa7.fastcast4u.com/proxy/ozmediae?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Inbam FM
+https://stream.radio.co/sf55ced545/listen
+#EXTINF:-1 group-title="Tamil Fm",Inbam FM
+http://stream.radio.co/sf55ced545/listen
+#EXTINF:-1 group-title="Tamil Fm",Isai FM
+http://node-35.zeno.fm/7b78sdv2x1zuv?rj-ttl=5&rj-tok=AAABeTcEq9oAZOP8V8iUjQDAMA
+#EXTINF:-1 group-title="Tamil Fm",Isai Thentral FM
+http://node-25.zeno.fm/uhqxtxxty7zuv?rj-ttl=5&rj-tok=AAABeTXQXQMAsIG4pGPkauZGAA
+#EXTINF:-1 group-title="Tamil Fm",Isaignani Radio
+http://apipermission.southradios.net/play/isaignaniradio
+#EXTINF:-1 group-title="Tamil Fm",Isaiyaruvi FM
+https://cors.bitwize.com.lb/http://108.61.154.147:8910/;
+#EXTINF:-1 group-title="Tamil Fm",ITR FM
+http://91.121.77.43:9000/stream
+#EXTINF:-1 group-title="Tamil Fm",ITR FM radio online
+https://radio5.pro-fhi.net/flux-hgtidrcv/stream
+#EXTINF:-1 group-title="Tamil Fm",iYalisai Bhakthi
+http://curiosity.shoutca.st:9655/stream
+#EXTINF:-1 group-title="Tamil Fm",Iyalisai Radio
+https://iyalisai.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",iYalisai Radio
+http://andromeda.shoutca.st:9350/;
+#EXTINF:-1 group-title="Tamil Fm",Janaki Radio
+http://apipermission.southradios.net/play/janakiradio
+#EXTINF:-1 group-title="Tamil Fm",Jei FM
+http://167.114.131.90:8808/jeifm
+#EXTINF:-1 group-title="Tamil Fm",Jei FM Radio
+https://usa3.fastcast4u.com/proxy/jeifm?mp=/;
+#EXTINF:-1 group-title="Tamil Fm",Joel FM
+http://66.55.145.43:7888/stream
+#EXTINF:-1 group-title="Tamil Fm",JTR FM
+http://195.154.217.103:8175/stream
+#EXTINF:-1 group-title="Tamil Fm",JTR FM online
+https://eapps-cs.herokuapp.com/http://jtrfm.ddnss.de:8000/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Kadhal FM
+http://stream.zeno.fm/b250snrg0d0uv
+#EXTINF:-1 group-title="Tamil Fm",Kadhal Radio
+http://apipermission.southradios.net/play/kadhalradio
+#EXTINF:-1 group-title="Tamil Fm",Kalai FM
+https://stream.zenolive.com/2vghnwshsqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Kalaignani Radio
+http://apipermission.southradios.net/play/kalaignanairadio
+#EXTINF:-1 group-title="Tamil Fm",Kalasam FM
+http://173.192.207.51:8084/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Kalasam FM
+http://173.192.207.51:8084/;
+#EXTINF:-1 group-title="Tamil Fm",Kamal FM
+https://stream.zenolive.com/xwkm87dn8mruv.aac
+#EXTINF:-1 group-title="Tamil Fm",KANADASAN FM
+https://stream.zeno.fm/hzhxzhznxmzuv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Kancheepuram Thedal FM
+https://kancheepuramthedalfm-spiritualfm2.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Kancheepuram Thedal FM
+http://dione.shoutca.st:8948/stream
+#EXTINF:-1 group-title="Tamil Fm",Kannadasan FM
+https://stream.zenolive.com/hzhxzhznxmzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Karur FM
+https://stream.zenolive.com/a472ud0f31zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Karur Life Fm
+http://node-03.zeno.fm/k0qrmtts91zuv?rj-ttl=5&rj-tok=AAABeOnDNXAAL7j4mZBqg5KVTg
+#EXTINF:-1 group-title="Tamil Fm",Karur Life FM
+http://stream.zenolive.com/k0qrmtts91zuv
+#EXTINF:-1 group-title="Tamil Fm",Karur Thedal FM
+http://node-07.zeno.fm/nxb2dpmmhm8uv?rj-ttl=5&rj-tok=AAABeOm0hNMAGmwjuAms1SECmw
+#EXTINF:-1 group-title="Tamil Fm",Karur Thedal FM
+http://play.karur.thedalfm.com/
+#EXTINF:-1 group-title="Tamil Fm",Kathir FM
+http://node-12.zeno.fm/nwga0bxxnrquv?rj-ttl=5&rj-tok=AAABeTcioIAArv2nFFydwOVjuw
+#EXTINF:-1 group-title="Tamil Fm",Kaviyarasar Radio
+http://apipermission.southradios.net/play/kaviyarasarradio
+#EXTINF:-1 group-title="Tamil Fm",Kirubai FM
+http://s4.voscast.com:7110/;
+#EXTINF:-1 group-title="Tamil Fm",KJ YESUDAS CLASSICAL
+https://stream.zeno.fm/870vywh3a5zuv.m3u
+#EXTINF:-1 group-title="Tamil Fm",KJ Yesudas Hits
+http://212.83.138.48:8251/;
+#EXTINF:-1 group-title="Tamil Fm",Kj Yesudas Radio
+http://apipermission.southradios.net/play/kjyesudas
+#EXTINF:-1 group-title="Tamil Fm",Kovilpatti Thedal FM
+http://dione.shoutca.st:8936/stream
+#EXTINF:-1 group-title="Tamil Fm",KS Chitra Hits FM
+http://apipermission.southradios.net/play/kschitra
+#EXTINF:-1 group-title="Tamil Fm",Kummalam online
+https://kummalam.stream.laut.fm/kummalam
+#EXTINF:-1 group-title="Tamil Fm",Kuvalai FM
+http://kuvalai.com:8000/stream/1/
+#EXTINF:-1 group-title="Tamil Fm",Lankasri FM
+http://5984.cloudrad.io:8032/;stream/1
+#EXTINF:-1 group-title="Tamil Fm",Lankasri FM
+http://media1.lankasri.fm:8032/stream
+#EXTINF:-1 group-title="Tamil Fm",Life FM Online
+http://node-10.zeno.fm/k0qrmtts91zuv?rj-ttl=5&rj-tok=AAABeTreWDwA1Xa5tZArMQoGhg
+#EXTINF:-1 group-title="Tamil Fm",Live Radio S Chennai
+http://173.249.17.187:8130/stream
+#EXTINF:-1 group-title="Tamil Fm",Live Radio S1 Trichy
+http://173.249.17.187:8210/stream
+#EXTINF:-1 group-title="Tamil Fm",Lockdown FM
+http://178.32.62.167:8408/stream
+#EXTINF:-1 group-title="Tamil Fm",Luminous Tamil FM
+http://192.111.140.6:8602/stream
+#EXTINF:-1 group-title="Tamil Fm",Madura Malli FM
+http://node-30.zeno.fm/yv9w5pe36qzuv?rj-ttl=5&rj-tok=AAABeTrfQTUAdm3dzLfG5aRrzg
+#EXTINF:-1 group-title="Tamil Fm",Madura Malli FM
+http://stream.zenolive.com/yv9w5pe36qzuv
+#EXTINF:-1 group-title="Tamil Fm",MAESTRO ILAYARAJA
+https://stream.zeno.fm/zngnvwy9bm8uv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Mafia FM
+https://stream.zenolive.com/9hzv9674vwzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Malaiyahan FM
+http://stream.zeno.fm/313tahrhqd0uv
+#EXTINF:-1 group-title="Tamil Fm",Malaysia Vasudevan Radio
+http://apipermission.southradios.net/play/malaysiavasudevanradio
+#EXTINF:-1 group-title="Tamil Fm",Mano Hits FM
+http://stream.zenolive.com/qtwprschknzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Mano Radio
+http://apipermission.southradios.net/play/manoradio
+#EXTINF:-1 group-title="Tamil Fm",Mazhai FM
+http://node-10.zeno.fm/yu4c9ms3h2zuv?rj-ttl=5&rj-tok=AAABeOnCvZQADDR03x5pkyChnQ
+#EXTINF:-1 group-title="Tamil Fm",Mazhai FM
+http://media.mazhaifm.com:9999/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Mellisai FM
+http://stream.zeno.fm/8zf3hbbey4zuv
+#EXTINF:-1 group-title="Tamil Fm",Mellisai Mannar Radio
+http://apipermission.southradios.net/play/mellisaimannarradio
+#EXTINF:-1 group-title="Tamil Fm",MGR Hits Radio
+http://stream.zenolive.com/qqeac1w55qzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",MGR RADIO
+https://stream.zeno.fm/qqeac1w55qzuv.m3u
+#EXTINF:-1 group-title="Tamil Fm",MGR Radio
+http://apipermission.southradios.net/play/mgradio
+#EXTINF:-1 group-title="Tamil Fm",Minnal FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Mirchi Top Tukkar
+http://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Mix 2 Max FM
+http://212.83.150.15:8123/stream
+#EXTINF:-1 group-title="Tamil Fm",Mohan Hits Radio
+http://node-32.zeno.fm/tx3pwp1k7mzuv?rj-ttl=5&rj-tok=AAABeTXb9K4Avv3xVbKOPXjV4w
+#EXTINF:-1 group-title="Tamil Fm",MOHAN RADIO
+http://stream.zeno.fm/eyz68sfs6x8uv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Mohan Radio
+http://apipermission.southradios.net/play/mohanradio
+#EXTINF:-1 group-title="Tamil Fm",Montreal Tamil Radio FM
+http://node-02.zeno.fm/ybawsbrqbrzuv?rj-ttl=5&rj-tok=AAABeTsr9kEAVCFGv_Pg7RiYgg
+#EXTINF:-1 group-title="Tamil Fm",Mr.Che Tamil Radio
+http://149.56.147.197:8076/;
+#EXTINF:-1 group-title="Tamil Fm",Mukil FM
+http://node-30.zeno.fm/nxb2dpmmhm8uv?rj-ttl=5&rj-tok=AAABeOmtTa8ANHO51p7skkjYNg
+#EXTINF:-1 group-title="Tamil Fm",Na Muthu kumar Radio
+http://apipermission.southradios.net/play/muthukumaradio
+#EXTINF:-1 group-title="Tamil Fm",Naam Tamilar FM
+http://songs.nagafm.com:8012/stream
+#EXTINF:-1 group-title="Tamil Fm",Naam Tamilar FM Radio
+http://sc.cobrasoftwares.in:8012/;
+#EXTINF:-1 group-title="Tamil Fm",Naga FM
+http://songs.nagafm.com:8006/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Nagapattinam Nanbargal
+http://node-31.zeno.fm/xyw4mnd8ntzuv?rj-ttl=5&rj-tok=AAABeOnDylsAtlg9kKgx3CVD_A
+#EXTINF:-1 group-title="Tamil Fm",Nagercoil Thedal FM
+http://dione.shoutca.st:8952/stream
+#EXTINF:-1 group-title="Tamil Fm",Nagore EM Hanifa
+https://stream.zenolive.com/y8sz1kfdy4zuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Nakshatra Radio online
+https://18803.live.streamtheworld.com/NAKSHATRA_S01AAC_SC
+#EXTINF:-1 group-title="Tamil Fm",Namakkal Thedal FM
+http://dione.shoutca.st:8968/stream
+#EXTINF:-1 group-title="Tamil Fm",Namathu FM
+https://s3.voscast.com:10527/stream
+#EXTINF:-1 group-title="Tamil Fm",Namathu FM online
+https://s3.voscast.com:10527/stream?type=.mp3
+#EXTINF:-1 group-title="Tamil Fm",Namma Radio
+https://stream.zenolive.com/cwgesdu01uquv.aac
+#EXTINF:-1 group-title="Tamil Fm",Nattupura Pattu
+https://stream.zenolive.com/t7wmtudgthruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Nellai Tamil FM
+http://stream.zenolive.com/8pgp79840tzuv
+#EXTINF:-1 group-title="Tamil Fm",Nesaganam FM
+http://192.95.39.65:5206/;
+#EXTINF:-1 group-title="Tamil Fm",Nesaganam online
+https://usa9.fastcast4u.com/proxy/nesaganam?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",New Songs (2021)
+http://178.32.107.151:2723/stream?
+#EXTINF:-1 group-title="Tamil Fm",News 18 Tamil
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_3_av-p.m3u8
+#EXTINF:-1 group-title="Tamil Fm",News 7 TV
+http://173.249.17.187:8190/stream
+#EXTINF:-1 group-title="Tamil Fm",Num Tamil Radio
+https://usa15.fastcast4u.com/proxy/tammus00?mp=/;
+#EXTINF:-1 group-title="Tamil Fm",Oli FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 group-title="Tamil Fm",Oli Fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac
+#EXTINF:-1 group-title="Tamil Fm",OM Radio
+http://samcloud.spacial.com/api/listen?sid=67478&m=sc
+#EXTINF:-1 group-title="Tamil Fm",Osai FM online
+https://astro4.rastream.com/osai
+#EXTINF:-1 group-title="Tamil Fm",Owl FM Radio Online
+http://node-22.zeno.fm/q6h0dmrrn7zuv?rj-ttl=5&rj-tok=AAABeTshmwMAPPSs5fA7qykfuw
+#EXTINF:-1 group-title="Tamil Fm",Paaddu FM online
+http://node-35.zeno.fm/z4chuxksn7zuv?rj-ttl=5&rj-tok=AAABeTspfsQAsU7Ht8Ji-dFXfg
+#EXTINF:-1 group-title="Tamil Fm",Paadu Nilavae FM
+http://node-18.zeno.fm/8hrzqn65pa0uv?rj-ttl=5&rj-tok=AAABeTXCaXwA5EgD1ztrE1PCpA
+#EXTINF:-1 group-title="Tamil Fm",Palaiya Paadal Radio
+http://apipermission.southradios.net/play/palaiyapaadalradio
+#EXTINF:-1 group-title="Tamil Fm",Pasanga FM
+http://s7.voscast.com:10864/;
+#EXTINF:-1 group-title="Tamil Fm",Pasanga FM Online
+http://node-19.zeno.fm/hm9bsar071zuv.aac?rj-ttl=5&rj-tok=AAABecbVwU0ARCa7I4gucYgNvA
+#EXTINF:-1 group-title="Tamil Fm",Peppers TV
+http://xlbor33arvaj-hls-live.wmncdn.net/peppers/live.stream/chunks.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Pirai FM SriLanka
+http://220.247.234.207:8000/piraistream
+#EXTINF:-1 group-title="Tamil Fm",Polimer News TV
+http://173.249.17.187:8200/stream
+#EXTINF:-1 group-title="Tamil Fm",Pollachi FM
+http://104.200.16.182:8000/stream?
+#EXTINF:-1 group-title="Tamil Fm",Pollachi FM
+http://node-20.zeno.fm/f29eh57d3qzuv?rj-ttl=5&rj-tok=AAABeTrr4noASdG8EII-ej2o7g
+#EXTINF:-1 group-title="Tamil Fm",Pollachi FM
+http://104.200.16.182:8000/stream
+#EXTINF:-1 group-title="Tamil Fm",Pollachi Thedal FM
+http://dione.shoutca.st:8956/stream
+#EXTINF:-1 group-title="Tamil Fm",Ponmaalai FM
+http://148.72.151.143:8004/;stream.nsv
+#EXTINF:-1 group-title="Tamil Fm",Pudhukottai Thedal FM
+http://dione.shoutca.st:8972/stream
+#EXTINF:-1 group-title="Tamil Fm",Pulikalinkural HD
+http://174.36.206.197:7006/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Pullingo Radio
+http://stream.zenolive.com/rademrq2kwzuv
+#EXTINF:-1 group-title="Tamil Fm",Pulmoddai Radio
+http://node-17.zeno.fm/0k3c1ta2kg8uv?rj-ttl=5&rj-tok=AAABeTbPJgUAjJUpb_Ng8jJbqw
+#EXTINF:-1 group-title="Tamil Fm",Punnagai FM
+https://str2b.openstream.co/1654
+#EXTINF:-1 group-title="Tamil Fm",Puradsi FM 8D
+http://apipermission.southradios.net/play/puradsifm
+#EXTINF:-1 group-title="Tamil Fm",PURPLE MELODY
+https://stream.zeno.fm/78wgzn7bxa0uv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Puthu Paadal Radio
+http://apipermission.southradios.net/play/puthupaadalradio
+#EXTINF:-1 group-title="Tamil Fm",Raajankam Radio 3D
+http://apipermission.southradios.net/play/raajankam3d
+#EXTINF:-1 group-title="Tamil Fm",Radio B3
+http://stream.zenolive.com/rfg9e5mxdzzuv
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat
+https://str2b.openstream.co/673
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat Love
+https://str2b.openstream.co/1993?aw_0_1st.collectionid=5770&stationId=5770&publisherId=2017&k=1620987517
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat Love
+http://listen.openstream.co/5770/audio
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat Retro
+http://5.63.151.52:7142/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio Beat Retro FM
+https://str2b.openstream.co/1520
+#EXTINF:-1 group-title="Tamil Fm",Radio City
+http://prclive1.listenon.in:9948/;
+#EXTINF:-1 group-title="Tamil Fm",Radio City 91.1 Chennai
+http://173.249.17.187:8160/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio City Faith Tamil FM
+https://prclive4.listenon.in/Faith
+#EXTINF:-1 group-title="Tamil Fm",Radio City FM
+http://prclive1.listenon.in:9948/
+#EXTINF:-1 group-title="Tamil Fm",Radio Gethu
+http://198.50.156.92:8902/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Radio Gethu Online
+https://radiogethu2k18.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio Gilli
+https://livessl.rcast.net/stream/66462.mp3
+#EXTINF:-1 group-title="Tamil Fm",Radio Madurai
+https://usa9.fastcast4u.com/proxy/radiomadu?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Radio Madurai
+http://192.95.39.65:5328/;
+#EXTINF:-1 group-title="Tamil Fm",Radio Mathuram
+http://apipermission.southradios.net/play/radiomathuram
+#EXTINF:-1 group-title="Tamil Fm",Radio Mirchi 98.3 Chennai
+http://173.249.17.187:8150/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio One 94.3 Chennai
+http://173.249.17.187:8180/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio Palamadom
+https://stream.zenolive.com/eth46290fnruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Radio Paramankurichi FM
+https://vpmurugun.radioca.st/autodj
+#EXTINF:-1 group-title="Tamil Fm",Radio Retro
+http://apipermission.southradios.net/play/radioretro
+#EXTINF:-1 group-title="Tamil Fm",Radio Tamizha online
+https://s4.yesstreaming.net:17182/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio Thamil HD
+https://s5.voscast.com:10117/stream
+#EXTINF:-1 group-title="Tamil Fm",Radio Vaali
+http://apipermission.southradios.net/play/radiovaali
+#EXTINF:-1 group-title="Tamil Fm",Radio Vaanam
+http://107.182.231.73:7178/;
+#EXTINF:-1 group-title="Tamil Fm",Radio Varaha
+https://str2b.openstream.co/673?aw_0_1st.collectionid=3372&stationId=3372&publisherId=697
+#EXTINF:-1 group-title="Tamil Fm",RadioMirchi FM
+https://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Rahmaniyam 3D
+http://apipermission.southradios.net/play/rahmaniyam3d
+#EXTINF:-1 group-title="Tamil Fm",RAJA FM
+https://stream.zeno.fm/476bw00re5zuv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Raja Melody HD
+http://apipermission.southradios.net/play/rajahmelody
+#EXTINF:-1 group-title="Tamil Fm",Rajah Duet Radio
+http://apipermission.southradios.net/play/rajahduet
+#EXTINF:-1 group-title="Tamil Fm",Rajini Radio
+http://stream.zenolive.com/cu5tt989ghruv
+#EXTINF:-1 group-title="Tamil Fm",Ramarajan FM
+http://stream.zenolive.com/kss7vuw7hqzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",RASI MUSIC DOLBY ATMOS
+http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Fm",RED 107.8
+http://shaincast.caster.fm:47830/listen.mp3
+#EXTINF:-1 group-title="Tamil Fm",RJ Thamizha FM
+http://node-34.zeno.fm/xsx5b5uw8k0uv?rj-ttl=5&rj-tok=AAABeTXAmUUAlDndtTpueGp8_A
+#EXTINF:-1 group-title="Tamil Fm",Roobam FM online
+https://s3.radio.co/sadfae7495/listen
+#EXTINF:-1 group-title="Tamil Fm",RythmMix FM
+https://eapps-cs.herokuapp.com/http://37.187.93.104:8432/stream
+#EXTINF:-1 group-title="Tamil Fm",RythmMix FM
+http://37.187.93.104:8432/stream
+#EXTINF:-1 group-title="Tamil Fm",SA Rajkumar Radio
+http://apipermission.southradios.net/play/sarajkumarradio
+#EXTINF:-1 group-title="Tamil Fm",SA Tamil FM
+http://node-07.zeno.fm/n9nbsu546qzuv?rj-ttl=5&rj-tok=AAABeWS0OJQAXcIXdAaV6qn6Gg
+#EXTINF:-1 group-title="Tamil Fm",SA Tamil FM
+http://live.tamilkuyilradio.com:9010/satamilfm
+#EXTINF:-1 group-title="Tamil Fm",Sad Hits
+https://stream.zenolive.com/6d9pqw5mshruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sad Songs Radio
+http://apipermission.southradios.net/play/sadsongsradio
+#EXTINF:-1 group-title="Tamil Fm",Sad Songs Tamil
+http://stream.zenolive.com/xbmq57gqvtzuv
+#EXTINF:-1 group-title="Tamil Fm",Sahara FM
+http://saharafm.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",SAI DEEPAM FM
+https://stream.zeno.fm/ut4syfwb1k8uv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Sai FM
+http://s2.voscast.com:9742/;
+#EXTINF:-1 group-title="Tamil Fm",Santhosh Narayanan Hits
+http://apipermission.southradios.net/play/santhoshnarayananradio
+#EXTINF:-1 group-title="Tamil Fm",Settai FM
+http://node-02.zeno.fm/b0qy1rp884zuv?rj-ttl=5&rj-tok=AAABeOmy4VkAWY5da47blyux6Q
+#EXTINF:-1 group-title="Tamil Fm",Shakthi FM
+http://live.trusl.com:1160/;z
+#EXTINF:-1 group-title="Tamil Fm",Shakthi FM
+https://listen.openstream.co/4620/audio
+#EXTINF:-1 group-title="Tamil Fm",Shakthi FM
+http://live.trusl.com:1160/;
+#EXTINF:-1 group-title="Tamil Fm",Shankar Mahadevan Radio
+http://apipermission.southradios.net/play/shankarmahadevanradio
+#EXTINF:-1 group-title="Tamil Fm",Sharvam FM online
+https://s9.voscast.com:9551/stream
+#EXTINF:-1 group-title="Tamil Fm",Shreya Radio
+http://apipermission.southradios.net/play/shreyaradio
+#EXTINF:-1 group-title="Tamil Fm",Shyam FM
+http://node-19.zeno.fm/nxb2dpmmhm8uv?rj-ttl=5&rj-tok=AAABeOm9Rc4AfF00hJjWX3OKDQ
+#EXTINF:-1 group-title="Tamil Fm",Shyam FM
+http://stream.zenolive.com/zug8fwdfmzzuv
+#EXTINF:-1 group-title="Tamil Fm",Sid Sriram Radio
+http://apipermission.southradios.net/play/sidsriramradio
+#EXTINF:-1 group-title="Tamil Fm",Siruthai FM Radio
+https://eu3.fastcast4u.com/proxy/skajanee?mp=/;
+#EXTINF:-1 group-title="Tamil Fm",Sivaji Hits Radio
+https://stream.zenolive.com/7pv7wc6nzmruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Sivaji Radio
+http://apipermission.southradios.net/play/sivajiradio
+#EXTINF:-1 group-title="Tamil Fm",SLBC Tamil National Service FM
+https://node-28.zeno.fm/ugevtd7fwzzuv.aac?rj-ttl=5&rj-tok=AAABeVqgk7oARc-srXCB98yRpg
+#EXTINF:-1 group-title="Tamil Fm",SLEEPING PILL MELODY
+https://stream.zeno.fm/szbp1xq5ctzuv.m3u
+#EXTINF:-1 group-title="Tamil Fm",Sooriyan FM
+http://209.133.216.3:7071/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Sooriyan FM
+https://eu10b.serverse.com:1936/sooriyanfm/sooriyanfm/chunklist_w55416986.m3u8
+#EXTINF:-1 group-title="Tamil Fm",Sooriyan FM
+http://209.133.216.3:7071/;
+#EXTINF:-1 group-title="Tamil Fm",Soup FM online
+https://www.liveradio.es/http://usa7.fastcast4u.com:8808/soupfm
+#EXTINF:-1 group-title="Tamil Fm",SPB Hits online
+http://node-10.zeno.fm/w2r2z0x547zuv.aa?rj-ttl=5&rj-tok=AAABeTXirokA5bVzITZN0SfMzA
+#EXTINF:-1 group-title="Tamil Fm",SPB Radio
+http://apipermission.southradios.net/play/spbradio
+#EXTINF:-1 group-title="Tamil Fm",Sri Jayam FM
+http://node-12.zeno.fm/3m8um2tgpm0uv?rj-ttl=5&rj-tok=AAABeTtpJZsAoYvI53vN2iHxMw
+#EXTINF:-1 group-title="Tamil Fm",SS Tamil Radio FM
+https://sstamilradio.radioca.st/;
+#EXTINF:-1 group-title="Tamil Fm",Star MusiQ
+http://167.114.131.90:5750/stream
+#EXTINF:-1 group-title="Tamil Fm",Star Radio Tamil FM
+https://n0d.radiojar.com/7pzbvyzb7a0uv?rj-ttl=5&rj-tok=AAABeTZ33BUAUqdLP6biglzwnw
+#EXTINF:-1 group-title="Tamil Fm",Star Tamil Radio
+http://s3.voscast.com:8402/;
+#EXTINF:-1 group-title="Tamil Fm",Suno Tamil FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 group-title="Tamil Fm",Super Star Radio
+http://apipermission.southradios.net/play/superstarradio
+#EXTINF:-1 group-title="Tamil Fm",Surya Hits Radio
+https://stream.zenolive.com/t0pw6men8mruv.aac
+#EXTINF:-1 group-title="Tamil Fm",Swargasudha FM
+http://66.55.145.43:7592/stream
+#EXTINF:-1 group-title="Tamil Fm",Swarnalatha Hits FM
+http://stream.zeno.fm/07ys8tp6hqzuv
+#EXTINF:-1 group-title="Tamil Fm",Swarnalatha Radio
+http://apipermission.southradios.net/play/swarnalatharadio
+#EXTINF:-1 group-title="Tamil Fm",Sweety FM
+https://rbx2.hnux.com/http://e12392.cloudrad.io:8382/;
+#EXTINF:-1 group-title="Tamil Fm",Swiss Uri Tamil Radio
+http://stream.zenolive.com/u8nt64f6sfeuv
+#EXTINF:-1 group-title="Tamil Fm",Tamil 80S Radio
+http://apipermission.southradios.net/play/tamil80shitsradio
+#EXTINF:-1 group-title="Tamil Fm",Tamil 89.4
+http://node-11.zeno.fm/gp5k6qs1bg0uv?rj-ttl=5&rj-tok=AAABeTZpKTUAvFI8i1CTLtF6eA
+#EXTINF:-1 group-title="Tamil Fm",Tamil 89.4 FM
+http://31.14.40.150:9000/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Tamil 89.4 FM
+http://31.14.40.150:9000/;
+#EXTINF:-1 group-title="Tamil Fm",Tamil 90S Radio
+http://apipermission.southradios.net/play/tamil90shitradio
+#EXTINF:-1 group-title="Tamil Fm",Tamil Akaram online
+https://tamilakaram.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Bakthi Radio
+http://stream.zeno.fm/cfs50cypmm0uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Chennai Radio
+http://node-19.zeno.fm/k9e5pmbktp8uv?rj-ttl=5&rj-tok=AAABeTtTz6wAn08b6JVOu7xtjA
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Chennai Radio
+http://stream.zeno.fm/rtbd1nbktp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Kovai Radio
+http://stream.zeno.fm/qns567vktp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Kovilpatti Radio
+http://stream.zeno.fm/rsq22c3ktp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Life Radio
+http://stream.zeno.fm/z5gvrs0cup8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Madurai Radio
+http://stream.zeno.fm/17z4sdkgtp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Mellisai Radio
+http://node-07.zeno.fm/bfh4ywts2f8uv?rj-ttl=5&rj-tok=AAABeTtUuY8ADllrB9IGiP1rFA
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Mellisai Radio
+http://stream.zeno.fm/dhm34wts2f8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Nellai Radio
+http://stream.zeno.fm/ud32ustgtp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Radio
+http://stream.zeno.fm/z33rzwd0gm0uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Sivakasi Radio
+http://stream.zeno.fm/f7f0pfwgtp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Thullisai Radio
+http://stream.zeno.fm/qd6c2rrq2f8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Amuthu Trichy Radio
+http://stream.zeno.fm/yks7qb9htp8uv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Aruvi FM
+http://s9.voscast.com:8430/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Tamil Beat Radio
+http://apipermission.southradios.net/play/tamilbeatradio
+#EXTINF:-1 group-title="Tamil Fm",Tamil Catholic Daily Radio
+http://188.165.212.154:8056/stream
+#EXTINF:-1 group-title="Tamil Fm",Tamil Comedy Express
+http://stream.zenolive.com/ta0h2qay2tzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tamil Comedy Radio
+http://apipermission.southradios.net/play/tamilcomedyradio
+#EXTINF:-1 group-title="Tamil Fm",Tamil Comedy Radio
+https://s8.yesstreaming.net:17010/stream
+#EXTINF:-1 group-title="Tamil Fm",Tamil Dance Hits
+http://stream.zeno.fm/rbur8stwnqzuv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Dj Remix Radio
+http://apipermission.southradios.net/play/tamildjremix
+#EXTINF:-1 group-title="Tamil Fm",Tamil Flash Fm
+http://stream.zenolive.com/89r9sk97gwzuv
+#EXTINF:-1 group-title="Tamil Fm",Tamil HD
+http://node-18.zeno.fm/ncw879a2h8quv?rj-ttl=5&rj-tok=AAABeOm752MA2h4k1JtEmwCspA
+#EXTINF:-1 group-title="Tamil Fm",Tamil Hits Radio
+http://apipermission.southradios.net/play/tamilhitsradio
+#EXTINF:-1 group-title="Tamil Fm",Tamil INI FM
+http://s9.voscast.com:8708/;
+#EXTINF:-1 group-title="Tamil Fm",Tamil Kuyil HD
+http://stream.zenolive.com/yp73agy93qzuv
+#EXTINF:-1 group-title="Tamil Fm",Tamil Kuyil Radio
+http://live.tamilkuyilradio.com:8095/;
+#EXTINF:-1 group-title="Tamil Fm",Tamil Lite Radio
+http://apipermission.southradios.net/play/tamilliteradio
+#EXTINF:-1 group-title="Tamil Fm",Tamil Melody Radio
+http://apipermission.southradios.net/play/tamilmelodyradio
+#EXTINF:-1 group-title="Tamil Fm",Tamil Murasam online
+https://tamilmurasam.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Tamil Old Movies Comedy
+http://stream.zenolive.com/ufnx361m1wzuv.aac
+#EXTINF:-1 group-title="Tamil Fm",Tamil Olli FM
+http://91.121.165.41:9035/stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Tamil Panpalai Africa
+https://tamilpanpalai.radioca.st/afr
+#EXTINF:-1 group-title="Tamil Fm",Tamil Panpalai Gold
+https://tamilpanpalai.radioca.st/ind
+#EXTINF:-1 group-title="Tamil Fm",Tamil Panpalai Oceania
+https://tamilpanpalai.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Tamil Pop
+http://apipermission.southradios.net/play/tamilpopradio
+#EXTINF:-1 group-title="Tamil Fm",Tamil Romantic Radio
+http://node-33.zeno.fm/bvz3qwqa4qzuv?rj-ttl=5&rj-tok=AAABeTrY97EAoyTo3OmiZLG6xg
+#EXTINF:-1 group-title="Tamil Fm",Tamil Talk Radio
+http://apipermission.southradios.net/play/tamiltalk
+#EXTINF:-1 group-title="Tamil Fm",Tamil Thai FM
+https://listen.radioking.com/radio/357349/stream/406756
+#EXTINF:-1 group-title="Tamil Fm",Tamilosai FM
+http://usa15.fastcast4u.com:4566/;stream.nsv
+#EXTINF:-1 group-title="Tamil Fm",Thala Thalapathy Radio
+http://apipermission.southradios.net/play/thalathalapathyradio
+#EXTINF:-1 group-title="Tamil Fm",Thambi FM
+http://node-30.zeno.fm/r1m0u429e2zuv?rj-ttl=5&rj-tok=AAABeVsDVcIA6dRngDy95WlR_Q
+#EXTINF:-1 group-title="Tamil Fm",Thamilar Radio Online
+https://eu4.fastcast4u.com/proxy/thgqiwvg?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Thavakalai Radio
+http://161.97.135.229:8000/stream
+#EXTINF:-1 group-title="Tamil Fm",The Leader FM
+http://node-24.zeno.fm/wg4b845c2wzuv?rj-ttl=5&rj-tok=AAABeTWi8q4AtCcacw1teLeytA
+#EXTINF:-1 group-title="Tamil Fm",The Leader FM
+http://stream.zenolive.com/wg4b845c2wzuv
+#EXTINF:-1 group-title="Tamil Fm",Thedal FM online
+https://thedalfmkarur.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Thendral FM
+http://node-20.zeno.fm/xzt706p3h2zuv?rj-ttl=5&rj-tok=AAABeTWgUV8A9ZYHZSism8LVyw
+#EXTINF:-1 group-title="Tamil Fm",Theophony Tamil Isai
+http://209.133.216.3:7558/stream
+#EXTINF:-1 group-title="Tamil Fm",Thiruppur Thedal FM
+http://dione.shoutca.st:8980/stream
+#EXTINF:-1 group-title="Tamil Fm",Thiruvannamalai Thedal FM
+https://thiruvannamalaitheda-spiritualfm2.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Thiruvannamalai Thedal FM
+http://dione.shoutca.st:8251/stream
+#EXTINF:-1 group-title="Tamil Fm",Thiruvarur Tamil Vanoli
+http://stream.zenolive.com/ncw879a2h8quv
+#EXTINF:-1 group-title="Tamil Fm",THR Raaga FM Malaysia
+http://astro3.rastream.com/raaga.android
+#EXTINF:-1 group-title="Tamil Fm",Thuli FM
+http://192.99.58.30:8602/;
+#EXTINF:-1 group-title="Tamil Fm",Thuthi FM
+https://streams.radio.co/s790fe269d/listen
+#EXTINF:-1 group-title="Tamil Fm",TMS Radio
+http://apipermission.southradios.net/play/tmsradio
+#EXTINF:-1 group-title="Tamil Fm",TSR Live Online
+http://node-21.zeno.fm/qt4tvqqqbrzuv?rj-ttl=5&rj-tok=AAABeTsT9NsAebbgiErmm9Ku-A
+#EXTINF:-1 group-title="Tamil Fm",Tube Tamil FM
+http://node-08.zeno.fm/p5k41f436qzuv?rj-ttl=4&rj-tok=AAABeVcFIbwA23ktAzSV4B_UTA
+#EXTINF:-1 group-title="Tamil Fm",Ullasam FM
+http://192.99.8.192:2792/ULLasam%20FM
+#EXTINF:-1 group-title="Tamil Fm",Unnikrishnan Radio
+http://apipermission.southradios.net/play/unnikrishanradio
+#EXTINF:-1 group-title="Tamil Fm",Uri Tamil FM
+http://node-07.zeno.fm/u8nt64f6sfeuv?rj-ttl=5&rj-tok=AAABeTcYHusAQLPa4AWQvlGFzA
+#EXTINF:-1 group-title="Tamil Fm",US Tamil FM online
+https://streaming.radio.co/s0cfc93915/listen
+#EXTINF:-1 group-title="Tamil Fm",Uthamiyae Fm
+http://uthamiyaefm.serverroom.us:4712/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Vaakai Tamil Radio
+http://vtfm2020-vtfm.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Vaanam FM
+http://62.210.10.4:8106/stream
+#EXTINF:-1 group-title="Tamil Fm",Vaanam FM
+http://europa.shoutca.st:8106/;stream.nsv
+#EXTINF:-1 group-title="Tamil Fm",Vaanam FM
+http://62.210.10.4:8106/;stream/
+#EXTINF:-1 group-title="Tamil Fm",Vaanambadi Vaanoli
+https://usa9.fastcast4u.com/proxy/vaanambadifm?mp=/1
+#EXTINF:-1 group-title="Tamil Fm",Vaanmalar FM
+http://66.55.145.43:8098/stream
+#EXTINF:-1 group-title="Tamil Fm",Vaanosai FM
+https://stream.zenolive.com/7aswfbpx25quv.aac
+#EXTINF:-1 group-title="Tamil Fm",Vaanosai FM online
+http://node-09.zeno.fm/7aswfbpx25quv?rj-ttl=5&rj-tok=AAABeVq_GL0AW9-dxwEFUsV4JA
+#EXTINF:-1 group-title="Tamil Fm",Vadivelu Comedy Radio
+http://apipermission.southradios.net/play/vadivelucomedyradio
+#EXTINF:-1 group-title="Tamil Fm",Vairamuthu Radio
+http://apipermission.southradios.net/play/vairamuthuradio
+#EXTINF:-1 group-title="Tamil Fm",Vallamaiyin Alaikal FM
+https://radio.pixelinmedia.com/vallamai
+#EXTINF:-1 group-title="Tamil Fm",Vanavil FM
+https://s8.yesstreaming.net:17000/live
+#EXTINF:-1 group-title="Tamil Fm",Vanavil FM
+https://s8.yesstreaming.net:17000/stream
+#EXTINF:-1 group-title="Tamil Fm",Vanavil FM
+https://s8.yesstreaming.net:19000/stream
+#EXTINF:-1 group-title="Tamil Fm",Vanavil Hits
+http://hdfmradio.com/wp-content/uploads/Vanavil-Hits-Radio-1.png
+#EXTINF:-1 group-title="Tamil Fm",Vannam Radio online
+https://eu9.fastcast4u.com/proxy/rishiriswan?mp=/1&1597106540544
+#EXTINF:-1 group-title="Tamil Fm",Varnam FM
+http://198.178.123.8:8402/;stream.mp3
+#EXTINF:-1 group-title="Tamil Fm",Vegam Tamil radio online
+https://eapps-cs.herokuapp.com/http://vtr24.com:8000/;
+#EXTINF:-1 group-title="Tamil Fm",Vettri Oli FM
+http://s2.voscast.com:12136/;stream.mp3?1520104154834
+#EXTINF:-1 group-title="Tamil Fm",Vettri Oli FM
+http://s2.voscast.com:12136/;
+#EXTINF:-1 group-title="Tamil Fm",Vidyasagar FM
+http://apipermission.southradios.net/play/vidyasagarradio
+#EXTINF:-1 group-title="Tamil Fm",Vijay Radio
+http://apipermission.southradios.net/play/vijayradio
+#EXTINF:-1 group-title="Tamil Fm",Vilathikulam Thendral
+http://stream.zenolive.com/cgc8p9v6hrruv
+#EXTINF:-1 group-title="Tamil Fm",Virudhunagar Thedal FM
+http://dione.shoutca.st:8976/stream
+#EXTINF:-1 group-title="Tamil Fm",Virudhunagar Web Radio
+http://stream.zeno.fm/ervbfrbk8k8uv
+#EXTINF:-1 group-title="Tamil Fm",Vizhi FM
+http://node-35.zeno.fm/03za00n10qruv?rj-ttl=5&rj-tok=AAABeOm10yQAT8pOljo29XiLyw
+#EXTINF:-1 group-title="Tamil Fm",Voice of Chennai
+http://149.56.234.136:9928/;
+#EXTINF:-1 group-title="Tamil Fm",Voice of Chennai online
+https://eapps-cs.herokuapp.com/http://149.56.234.136:9928/;
+#EXTINF:-1 group-title="Tamil Fm",Weekly Top Songs (2021)
+http://stream.zeno.fm/heyxfv9f84zuv
+#EXTINF:-1 group-title="Tamil Fm",Yet Radio 24/7
+http://stream.zenolive.com/vmm16gt0etzuv
+#EXTINF:-1 group-title="Tamil Fm",YET WEB online
+http://node-28.zeno.fm/vmm16gt0etzuv?rj-ttl=5&rj-tok=AAABeTtLdV4At13g7KbU-oy9Pw
+#EXTINF:-1 group-title="Tamil Fm",YSR Radio
+http://apipermission.southradios.net/play/ysrradio
+#EXTINF:-1 group-title="Tamil Fm",Yugam Radio online
+https://s6.yesstreaming.net:19012/stream;
+#EXTINF:-1 group-title="Tamil Fm",Yuwave radio online
+https://yuwaveradio.radioca.st/stream
+#EXTINF:-1 group-title="Tamil Fm",Yuwave Tamil Radio
+http://janus.shoutca.st:8004/stream
