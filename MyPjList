@@ -188,120 +188,6 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 
 
-###---------------------------Jio Tamil---------------------------------
-
-
-#EXTINF: -1 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title=" Jio Tamil", Polimer News
-http://manastv.xyz/m3u8.php?c=Polimer_News&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="628" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title=" Jio Tamil", Zee Tamil
-http://manastv.xyz/m3u8.php?c=Zee_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title=" Jio Tamil", Colors Tamil HD
-http://manastv.xyz/m3u8.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="830" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title=" Jio Tamil", Thanthi TV
-http://manastv.xyz/m3u8.php?c=Thanthi_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="420" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title=" Jio Tamil", Jaya Max
-http://manastv.xyz/m3u8.php?c=Jaya_Max&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title=" Jio Tamil", Nick Tamil
-http://manastv.xyz/m3u8.php?c=Nick_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title=" Jio Tamil", Pogo Tamil
-http://manastv.xyz/m3u8.php?c=Pogo_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="817" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title=" Jio Tamil", Cartoon Network Tamil
-http://manastv.xyz/m3u8.php?c=Cartoon_Network_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="569" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title=" Jio Tamil", D Tamil
-http://manastv.xyz/m3u8.php?c=Discovery_Channel_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="579" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title=" Jio Tamil", History TV18 HD Tamil
-http://manastv.xyz/m3u8.php?c=History_18_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="814" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title=" Jio Tamil", Travel XP Tamil
-http://manastv.xyz/m3u8.php?c=Travel_XP_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="853" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title=" Jio Tamil", Sony BBC Earth HD Tamil
-http://manastv.xyz/m3u8.php?c=Sony_BBC_Earth_HD_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="937" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title=" Jio Tamil", Sai TV
-http://manastv.xyz/m3u8.php?c=SaiTV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="835" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title=" Jio Tamil", Angel TV HD
-http://manastv.xyz/m3u8.php?c=Angel_TV_HD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="419" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title=" Jio Tamil", Jaya TV HD
-http://manastv.xyz/m3u8.php?c=Jaya_TV_HD&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="847" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title=" Jio Tamil", MK TV
-http://manastv.xyz/m3u8.php?c=MK_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="857" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title=" Jio Tamil", Vendhar TV
-http://manastv.xyz/m3u8.php?c=Vendhar_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="796" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title=" Jio Tamil", Peppers TV
-http://manastv.xyz/m3u8.php?c=Peppers_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="824" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title=" Jio Tamil", Puthu Yugam
-http://manastv.xyz/m3u8.php?c=Puthu_Yugam&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="705" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title=" Jio Tamil", Polimer TV
-http://manastv.xyz/m3u8.php?c=Polimer_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="707" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title=" Jio Tamil", Raj TV
-http://manastv.xyz/m3u8.php?c=Raj_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="708" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title=" Jio Tamil", Makkal TV
-http://manastv.xyz/m3u8.php?c=Makkal_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="711" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title=" Jio Tamil", Captain tv
-http://manastv.xyz/m3u8.php?c=Captain_tv&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="726" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title=" Jio Tamil", DD5 Podhigai
-http://manastv.xyz/m3u8.php?c=DD5_Podhigai&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="727" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title=" Jio Tamil", Vasanth TV
-http://manastv.xyz/m3u8.php?c=Vasanth_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title=" Jio Tamil", J Movies
-http://manastv.xyz/m3u8.php?c=J_Movies&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="683" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title=" Jio Tamil", Raj Digital Plus
-http://manastv.xyz/m3u8.php?c=Raj_Digital_Plus&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="677" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title=" Jio Tamil", Puthiya Thalimurai
-http://manastv.xyz/m3u8.php?c=Puthiya_Thalimurai&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="673" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title=" Jio Tamil", News7 Tamil
-http://manastv.xyz/m3u8.php?c=News7_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="615" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title=" Jio Tamil", News 18 Tamilnadu
-http://manastv.xyz/m3u8.php?c=News_18_Tamilnadu&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="845" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title=" Jio Tamil", MK Music
-http://manastv.xyz/m3u8.php?c=MK_Music&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="803" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title=" Jio Tamil", Tunes 6
-http://manastv.xyz/m3u8.php?c=Tunes_6&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="748" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title=" Jio Tamil", Raj Musix
-http://manastv.xyz/m3u8.php?c=Raj_Musix&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="749" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title=" Jio Tamil", Sahana Music
-http://manastv.xyz/m3u8.php?c=Sahana_Music&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="418" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title=" Jio Tamil", Jaya Plus
-http://manastv.xyz/m3u8.php?c=Jaya_Plus&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="826" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title=" Jio Tamil", Malai Murasu
-http://manastv.xyz/m3u8.php?c=Malai_Murasu&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="290" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title=" Jio Tamil", sonic Tamil
-http://manastv.xyz/m3u8.php?c=sonic_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="550" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title=" Jio Tamil", Discovery Kids Tamil
-http://manastv.xyz/m3u8.php?c=Discovery_Kids_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="603" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title=" Jio Tamil", Nambikkai
-http://manastv.xyz/m3u8.php?c=Nambikkai&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="645" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title=" Jio Tamil", Captain News
-http://manastv.xyz/m3u8.php?c=Captain_News&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="671" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title=" Jio Tamil", Sathiyam TV
-http://manastv.xyz/m3u8.php?c=Sathiyam&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="913" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lotus_News.png" group-title=" Jio Tamil", Lotus News
-http://manastv.xyz/m3u8.php?c=Lotus_News&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="843" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title=" Jio Tamil", Madhimugam TV
-http://manastv.xyz/m3u8.php?c=Madhimugam_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="970" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title=" Jio Tamil", Win TV
-http://manastv.xyz/m3u8.php?c=Win_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="767" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title=" Jio Tamil", Raj News 24x7
-http://manastv.xyz/m3u8.php?c=Raj_News_24x7&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="873" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title=" Jio Tamil", Sony Yay Tamil
-http://manastv.xyz/m3u8.php?c=Sony_Yay_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1081" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title=" Jio Tamil", CN HD+ Tamil
-http://manastv.xyz/m3u8.php?c=CN_HD_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1209" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title=" Jio Tamil", Kalaignar TV
-http://manastv.xyz/m3u8.php?c=Kalaignar_TV&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1210" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title=" Jio Tamil", Kalaignar Seithigal
-http://manastv.xyz/m3u8.php?c=Kalaignar_Seithigal_&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1219" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title=" Jio Tamil", Animal Planet HD Tamil
-http://manastv.xyz/m3u8.php?c=Animal_Planet_HD_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title=" Jio Tamil", Aastha Tamil
-http://manastv.xyz/m3u8.php?c=Aastha_Tamil&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" group-title=" Jio Tamil", SVBC2
-http://manastv.xyz/m3u8.php?c=SVBC2&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1438" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title=" Jio Tamil", Velukkudi Discourses
-http://manastv.xyz/m3u8.php?c=Velukkudi_Discourses&q=800&e=junk.m3u8
-#EXTINF: -1 tvg-id="1515" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title=" Jio Tamil", News J
-http://manastv.xyz/m3u8.php?c=News_J&q=800&e=junk.m3u8
-
-
-
 
 ####------------- RASI----------------
 
@@ -389,37 +275,37 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="News Channels (Youtube Live)",Polimer News
-https://utube.arapurayil.com/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch1.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="News Channels (Youtube Live)",News 7 Tamil
-https://utube.arapurayil.com/stream/UC2f4w_ppqHplvjiNaoTAK9w/master.m3u8
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch2.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://mag.puthiyathalaimurai.com/wp-content/uploads/2020/03/PUTHIYATHALAIMURAI.png"group-title="News Channels (Youtube Live)",PuthiyaThalaimurai
-https://utube.arapurayil.com/stream/UCmyKnNRH0wH-r8I-ceP-dsg/master.m3u8
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch3.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="News Channels (Youtube Live)",News18 TamilNadu
-https://utube.arapurayil.com/stream/UCat88i6_rELqI_prwvjspRA/master.m3u8
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch6.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png"group-title="News Channels (Youtube Live)",NewsJ
-https://utube.arapurayil.com/stream/UCsfh2Zb7-m4qzT8jLhK_Fzw/master.m3u8
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch7.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png"group-title="News Channels (Youtube Live)",Sathiyamtv
 https://utube.arapurayil.com/stream/UC2ziCMHFPWkFHjocUMXT__Q/master.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Logo_of_Thanthi_TV.png/200px-Logo_of_Thanthi_TV.png"group-title="News Channels (Youtube Live)",Thanthi TV
-https://utube.arapurayil.com/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch4.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png"group-title="News Channels (Youtube Live)",Sun News
-https://utube.arapurayil.com/stream/UCYlh4lH762HvHt6mmiecyWQ/master.m3u8
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch5.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/Dr7ldJd.png"group-title="News Channels (Youtube Live)",Dinamalar (தினமலர் செய்திகள்)
-https://utube.arapurayil.com/stream/UChcR8SrIiSON4KxmtpwfMgw/master.m3u8
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch9.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_news_tamil.png"group-title="News Channels (Youtube Live)",Raj News Tamil
 https://utube.arapurayil.com/stream/UC1mkFVHzP87YQ87PSMxo9MQ/master.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-jaya-plus-9853-300x225.jpg"group-title="News Channels (Youtube Live)",Jaya Plus
-https://utube.arapurayil.com/stream/UCOP4Gbw-T1ofcW8vyL89ZDw/master.m3u8
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch8.m3u8
 
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/BBdtAbM.jpg"group-title="News Channels (Youtube Live)",Chanakyaa
 https://utube.arapurayil.com/stream/UCoOu4D7foJWfKvcDLxqrF2Q/master.m3u8
@@ -451,83 +337,5 @@ https://utube.arapurayil.com/stream/UCKwucPzHZ7zCUIf7If-Wo1g/master.m3u8
 #EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/4dmgCdM.jpg"group-title="News Channels (Youtube Live)",Republic Bharat
 https://utube.arapurayil.com/stream/UC7wXt18f2iA3EDXeqAVuKng/master.m3u8
 
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/yKk07FA.png"group-title="News Channels (Youtube Live)",Aaj Tak
-https://utube.arapurayil.com/stream/UCt4t-jeY85JegMlZ-E5UWtA/master.m3u8
 
 
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.ibb.co/5YsTJfM/gnt-logo-9.jpg"group-title="News Channels (Youtube Live)", Good News Today
-https://utube.arapurayil.com/stream/UCQC1wGbOOIoC23fRGxt4kbg/master.m3u8
-
-
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/cGJDSon.jpg"group-title="News Channels (Youtube Live)",NDTV India
-https://utube.arapurayil.com/stream//master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/3Y60xSh.jpg"group-title="News Channels (Youtube Live)",IndiaTV
-https://utube.arapurayil.com/stream/UCttspZesZIDEwwpVIgoZtWQ/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/MkLUX70.png"group-title="News Channels (Youtube Live)",NewsX
-https://utube.arapurayil.com/stream/UCytSP0M0Jdnw6qIy3Y-nTig/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/mO7gA6S.png"group-title="News Channels (Youtube Live)",DW News
-https://utube.arapurayil.com/stream/UCknLrEdhRCp1aegoMqRaCZg/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/3PH7frA.jpg"group-title="News Channels (Youtube Live)",WION
-https://utube.arapurayil.com/stream/UC_gUM8rL-Lrg6O3adPW9K1g/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/6rvOlTS.png"group-title="News Channels (Youtube Live)",Franceinfo
-https://utube.arapurayil.com/stream/UCO6K_kkdP-lnSCiO3tPx7WA/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/1NHCrPM.png"group-title="News Channels (Youtube Live)",FRANCE 24 English
-https://utube.arapurayil.com/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/1NHCrPM.png"group-title="News Channels (Youtube Live)",FRANCE 24 French
-https://utube.arapurayil.com/stream/UCCCPCZNChQdGa9EkATeye4g/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/xLFZAOw.png"group-title="News Channels (Youtube Live)",RT France
-https://utube.arapurayil.com/stream/UCqEVwTnDzlzKOGYNFemqnYA/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/GevFwHE.png"group-title="News Channels (Youtube Live)",RT UK
-https://utube.arapurayil.com/stream/UC_ab7FFA2ACk2yTHgNan8lQ/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/NCReKGD.png"group-title="News Channels (Youtube Live)",NBC News
-https://utube.arapurayil.com/stream/UCeY0bbntWzzVIaj2z3QigXg/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/MlHcqsm.png"group-title="News Channels (Youtube Live)",ABC News
-https://utube.arapurayil.com/stream/UCBi2mrWuNuyYy4gbM6fU18Q/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/xF4YR6t.jpg"group-title="News Channels (Youtube Live)",TRT World
-https://utube.arapurayil.com/stream/UC7fWeaHhqgM4Ry-RMpM2YYw/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/jSS0oVW.png"group-title="News Channels (Youtube Live)",Al Jazeera English
-https://utube.arapurayil.com/stream/UCNye-wNBqNL5ZzHSJj3l8Bg/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/bW14Glk.jpg"group-title="News Channels (Youtube Live)",News 12 New York
-https://utube.arapurayil.com/stream/UCFhbonoFqxg2b9FMRzYAwog/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/MiVlKBY.png"group-title="News Channels (Youtube Live)",GBNews
-https://utube.arapurayil.com/stream/UC0vn8ISa4LKMunLbzaXLnOQ/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/Lv7K76P.png"group-title="News Channels (Youtube Live)",ABC News (Australia)
-https://utube.arapurayil.com/stream/UCVgO39Bk5sMo66-6o6Spn6Q/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/Jueh5bJ.jpg"group-title="News Channels (Youtube Live)",ABC7 SWFL
-https://utube.arapurayil.com/stream/UCq9e_hCv2jvgck8WowW1NXg/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/DWpgVq9.jpg"group-title="News Channels (Youtube Live)",Sky News
-https://utube.arapurayil.com/stream/9Auq9mYxFEE/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/heOWf7D.jpg"group-title="News Channels (Youtube Live)",Newsmax TV
-https://utube.arapurayil.com/stream/UCx6h-dWzJ5NpAlja1YsApdg/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.imgur.com/xR0QViQ.png"group-title="News Channels (Youtube Live)",G TV
-https://utube.arapurayil.com/stream/UCXuHIkEezOy_b1pnkN0-TIg/master.m3u8
-
-EXTINF:-1tvg-id="tvg-name="tvg-logo="https://i.ibb.co/5rgB2MG/fox-news-media-1000x600.jpg"group-title="News Channels (Youtube Live)",Fox News
-https://utube.arapurayil.com/stream/UCXIJgqnII2ZOINSWNOGFThA/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://yt3.ggpht.com/2tQrtmVSXQXR0leZvWv-SJB-ngrmNIgnL7bouwrTxmm3hZa6ajkNMhv5k9Sk5hgu2LigN-Lj9Q=s176-c-k-c0x00ffffff-no-rj"group-title="News Channels (Youtube Live)",Tamil AR Entertainments
-https://utube.arapurayil.com/stream/UCxXlG1CnrD9jkk2-QA2aRUg/master.m3u8
-
-#EXTINF:-1tvg-id="tvg-name="tvg-logo="https://yt3.ggpht.com/2tQrtmVSXQXR0leZvWv-SJB-ngrmNIgnL7bouwrTxmm3hZa6ajkNMhv5k9Sk5hgu2LigN-Lj9Q=s176-c-k-c0x00ffffff-no-rj"group-title="News Channels (Youtube Live)",Tamil AR Entertainments
-https://utube.arapurayil.com/stream/qvGso-cVqoU/master.m3u8
