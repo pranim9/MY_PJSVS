@@ -512,3 +512,15 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Test"tvg-name=""tvg-logo=""group-title="Test",Polimer YT
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
+
+
+####----------------------------Gcdn.c000-----------------------------------------
+
+#EXTINF:-1  group-title="Gcdn.co",Zee Tamil
+https://last.gcdn.co/IND270/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Gcdn.co",Zee Thirai
+https://last.gcdn.co/IND271/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Gcdn.co",IBC Tamil
+https://last.gcdn.co/IND272/tracks-v1a1/mono.m3u8
