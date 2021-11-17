@@ -153,19 +153,19 @@ https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd|user-a
 
 ###-----------------News--------------------------
 
-#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="TNews",Polimer News
+#EXTINF:-1 tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="News",Polimer News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="TNews",News 7 Tamil
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="News",News 7 Tamil
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://mag.puthiyathalaimurai.com/wp-content/uploads/2020/03/PUTHIYATHALAIMURAI.png"group-title="TNews",PuthiyaThalaimurai
+#EXTINF:-1 tvg-logo="https://mag.puthiyathalaimurai.com/wp-content/uploads/2020/03/PUTHIYATHALAIMURAI.png"group-title="News",PuthiyaThalaimurai
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="TNews",News18 TamilNadu
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="News",News18 TamilNadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png"group-title="TNews",NewsJ
+#EXTINF:-1 tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png"group-title="News",NewsJ
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Logo_of_Thanthi_TV.png/200px-Logo_of_Thanthi_TV.png"group-title="TNews",Thanthi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Logo_of_Thanthi_TV.png/200px-Logo_of_Thanthi_TV.png"group-title="News",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg"group-title="TNews",Kalaignar News
+#EXTINF:-1 tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg"group-title="News",Kalaignar News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist.m3u8
 
 
@@ -173,7 +173,7 @@ http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist
 ####-----------------YuppTv--------------------------
 
 
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo=""group-title="YuppTv",Star VIJAY HD
+#EXTINF:-1 group-title="YuppTv",Star VIJAY HD
 https://catchup.yuppcdn.net/amazonv2/20/preview/starvijay/master/master.m3u8
 
 #EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png"group-title="YuppTv",COLORS TAMIL
@@ -188,28 +188,28 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/sunlife/master/master.m3u8
 #EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png"group-title="YuppTv",Sun Music
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
 
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo=""group-title="YuppTv",JAYA MAX
+#EXTINF:-1 group-title="YuppTv",JAYA MAX
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
  
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo=""group-title="YuppTv",JAYA MOViE
+#EXTINF:-1 group-title="YuppTv",JAYA MOViE
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
 
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo=""group-title="YuppTv",JAYA Tv
+#EXTINF:-1 group-title="YuppTv",JAYA Tv
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8
 
 #EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"group-title="YuppTv",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo=""group-title="YuppTv",Murasu
+#EXTINF:-1 group-title="YuppTv",Murasu
 https://catchup.yuppcdn.net/amazonv2/20/preview/murasu/master/master.m3u8
 
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo=""group-title="YuppTv",Captain Tv
+#EXTINF:-1 group-title="YuppTv",Captain Tv
 https://catchup.yuppcdn.net/amazonv2/20/preview/captaintv/master/master.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-name=""tvg-logo=""group-title="YuppTv",Chithiram Tv
 https://catchup.yuppcdn.net/amazonv2/20/preview/chithiram/master/master.m3u8
 
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo=""group-title="YuppTv",Polimer TV
+#EXTINF:-1 group-title="YuppTv",Polimer TV
 https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
 
 #EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png"group-title="YuppTv",KTV HD tamil
@@ -318,21 +318,21 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 ####------------- RASI----------------
 
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3HPhrIB.png"group-title="Rasi Net",Rasi Hollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3HPhrIB.png"group-title="Rasi Net",Rasi Hollywood
 http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/v8U4xyf.png"group-title="Rasi Net",Rasi Tamil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8U4xyf.png"group-title="Rasi Net",Rasi Tamil
 http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/fzwWhCN.png"group-title="Rasi Net",Rasi Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fzwWhCN.png"group-title="Rasi Net",Rasi Network
 http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/rQKU3lx.png"group-title="Rasi Net",Rasi Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQKU3lx.png"group-title="Rasi Net",Rasi Movies
 http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/UjEwUHb.png"group-title="Rasi Net",Rasi Classic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UjEwUHb.png"group-title="Rasi Net",Rasi Classic
 http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/4rzTPWA.png"group-title="Rasi Net",Rasi Music HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rzTPWA.png"group-title="Rasi Net",Rasi Music HD
 http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/RqgE86j.png"group-title="Rasi Net",Rasi TV Malayalam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqgE86j.png"group-title="Rasi Net",Rasi TV Malayalam
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bmxqT1v.png"group-title="Rasi Net",Rasi Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmxqT1v.png"group-title="Rasi Net",Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
 
@@ -340,115 +340,115 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
 ####----------------------------Gcdn.co-----------------------------------------
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Zee Tamil
+#EXTINF:-1 group-title="Gcdn.co",Zee Tamil
 https://last.gcdn.co/IND270/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Zee Thirai
+#EXTINF:-1 group-title="Gcdn.co",Zee Thirai
 https://last.gcdn.co/IND271/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",IBC Tamil
+#EXTINF:-1 group-title="Gcdn.co",IBC Tamil
 https://last.gcdn.co/IND272/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Jaya Tv
+#EXTINF:-1 group-title="Gcdn.co",Jaya Tv
 https://last.gcdn.co/IND273/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Vijay Tv
+#EXTINF:-1 group-title="Gcdn.co",Vijay Tv
 https://last.gcdn.co/IND274/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Raj Digital Plus
+#EXTINF:-1 group-title="Gcdn.co",Raj Digital Plus
 https://last.gcdn.co/IND275/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Athavan
+#EXTINF:-1 group-title="Gcdn.co",Athavan
 https://last.gcdn.co/IND276/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Sun Music
+#EXTINF:-1 group-title="Gcdn.co",Sun Music
 https://last.gcdn.co/IND277/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Sun Tv
+#EXTINF:-1 group-title="Gcdn.co",Sun Tv
 https://last.gcdn.co/IND278/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",K Tv
+#EXTINF:-1 group-title="Gcdn.co",K Tv
 https://last.gcdn.co/IND279/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Vijay Tv 1
+#EXTINF:-1 group-title="Gcdn.co",Vijay Tv 1
 https://last.gcdn.co/IND280/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Vijay Euro Tv
+#EXTINF:-1 group-title="Gcdn.co",Vijay Euro Tv
 https://last.gcdn.co/IND281/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Vijay Tv 2
+#EXTINF:-1 group-title="Gcdn.co",Vijay Tv 2
 https://last.gcdn.co/IND282/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Colors Tamil
+#EXTINF:-1 group-title="Gcdn.co",Colors Tamil
 https://last.gcdn.co/IND283/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Sun Tv Uk
+#EXTINF:-1 group-title="Gcdn.co",Sun Tv Uk
 https://last.gcdn.co/IND284/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Discovery HD
+#EXTINF:-1 group-title="Gcdn.co",Discovery HD
 https://last.gcdn.co/IND285/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Polimer TV
+#EXTINF:-1 group-title="Gcdn.co",Polimer TV
 https://last.gcdn.co/IND286/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Discovery Tamil
+#EXTINF:-1 group-title="Gcdn.co",Discovery Tamil
 https://last.gcdn.co/IND289/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Vijay Music
+#EXTINF:-1 group-title="Gcdn.co",Vijay Music
 https://last.gcdn.co/IND290/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",J Movies
+#EXTINF:-1 group-title="Gcdn.co",J Movies
 https://last.gcdn.co/IND291/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",IBC Pakadi
+#EXTINF:-1 group-title="Gcdn.co",IBC Pakadi
 https://last.gcdn.co/IND293/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Raj Music
+#EXTINF:-1 group-title="Gcdn.co",Raj Music
 https://last.gcdn.co/IND294/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Colors Tamil Uk
+#EXTINF:-1 group-title="Gcdn.co",Colors Tamil Uk
 https://last.gcdn.co/IND299/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Athithya
+#EXTINF:-1 group-title="Gcdn.co",Athithya
 https://last.gcdn.co/IND303/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Kalanigar
+#EXTINF:-1 group-title="Gcdn.co",Kalanigar
 https://last.gcdn.co/IND304/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Caption Tv
+#EXTINF:-1 group-title="Gcdn.co",Caption Tv
 https://last.gcdn.co/IND305/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Sun Life
+#EXTINF:-1 group-title="Gcdn.co",Sun Life
 https://last.gcdn.co/IND307/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",3 Tamil
+#EXTINF:-1 group-title="Gcdn.co",3 Tamil
 https://last.gcdn.co/IND309/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Vijay Tv3
+#EXTINF:-1 group-title="Gcdn.co",Vijay Tv3
 https://last.gcdn.co/IND310/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Jaya Tv
+#EXTINF:-1 group-title="Gcdn.co",Jaya Tv
 https://last.gcdn.co/IND312/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Jaya Max
+#EXTINF:-1 group-title="Gcdn.co",Jaya Max
 https://last.gcdn.co/IND313/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Murasu
+#EXTINF:-1 group-title="Gcdn.co",Murasu
 https://last.gcdn.co/IND321/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Pothikai
+#EXTINF:-1 group-title="Gcdn.co",Pothikai
 https://last.gcdn.co/IND323/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Chithram
+#EXTINF:-1 group-title="Gcdn.co",Chithram
 https://last.gcdn.co/IND325/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",IsaiAruvi
+#EXTINF:-1 group-title="Gcdn.co",IsaiAruvi
 https://last.gcdn.co/IND327/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Chriboli
+#EXTINF:-1 group-title="Gcdn.co",Chriboli
 https://last.gcdn.co/IND329/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Gcdn"tvg-name=""tvg-logo=""group-title="Gcdn.co",Kbo Tamil
+#EXTINF:-1 group-title="Gcdn.co",Kbo Tamil
 https://last.gcdn.co/IND331/tracks-v1a1/mono.m3u8
 
 
@@ -510,17 +510,4 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Test"tvg-name=""tvg-logo=""group-title="Test",Polimer YT
-https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
-
-####----------------------------Gcdn.c000-----------------------------------------
-
-#EXTINF:-1  group-title="Gcdn.co",Zee Tamil
-https://last.gcdn.co/IND270/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  group-title="Gcdn.co",Zee Thirai
-https://last.gcdn.co/IND271/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Gcdn.co",IBC Tamil
-https://last.gcdn.co/IND272/tracks-v1a1/mono.m3u8
