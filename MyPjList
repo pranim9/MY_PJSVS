@@ -153,19 +153,19 @@ https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd|user-a
 
 ###-----------------News--------------------------
 
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="News",Polimer News
+#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="TNews",Polimer News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="News",News 7 Tamil
+#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="TNews",News 7 Tamil
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://mag.puthiyathalaimurai.com/wp-content/uploads/2020/03/PUTHIYATHALAIMURAI.png"group-title="News",PuthiyaThalaimurai
+#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://mag.puthiyathalaimurai.com/wp-content/uploads/2020/03/PUTHIYATHALAIMURAI.png"group-title="TNews",PuthiyaThalaimurai
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="News",News18 TamilNadu
+#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="TNews",News18 TamilNadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png"group-title="News",NewsJ
+#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png"group-title="TNews",NewsJ
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Logo_of_Thanthi_TV.png/200px-Logo_of_Thanthi_TV.png"group-title="News",Thanthi TV
+#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Logo_of_Thanthi_TV.png/200px-Logo_of_Thanthi_TV.png"group-title="TNews",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg"group-title="News",Kalaignar News
+#EXTINF:-1 tvg-id="TNews"tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg"group-title="TNews",Kalaignar News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist.m3u8
 
 
