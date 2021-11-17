@@ -100,10 +100,10 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
 #EXTINF:-1 group-title="YuppTv",JAYA MAX
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
  
-#EXTINF:-1 group-title="YuppTv",JAYA MOViE
+#EXTINF:-1 group-title="YuppTv",J MOViE
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
 
-#EXTINF:-1 group-title="YuppTv",JAYA Tv
+#EXTINF:-1 group-title="YuppTv",Jaya TV
 https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8
 
 #EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"group-title="YuppTv",Kalaignar
@@ -261,7 +261,7 @@ https://last.gcdn.co/IND272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gcdn.co",Jaya Tv
 https://last.gcdn.co/IND273/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Vijay Tv
+#EXTINF:-1 group-title="Gcdn.co",Star Vijay
 https://last.gcdn.co/IND274/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Gcdn.co",Raj Digital Plus
@@ -279,19 +279,19 @@ https://last.gcdn.co/IND278/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gcdn.co",K Tv
 https://last.gcdn.co/IND279/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Vijay Tv 1
+#EXTINF:-1 group-title="Gcdn.co",Star Vijay
 https://last.gcdn.co/IND280/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Vijay Euro Tv
+#EXTINF:-1 group-title="Gcdn.co",Star Vijay (2)
 https://last.gcdn.co/IND281/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Vijay Tv 2
+#EXTINF:-1 group-title="Gcdn.co",Star Vijay (3)
 https://last.gcdn.co/IND282/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Gcdn.co",Colors Tamil
 https://last.gcdn.co/IND283/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Sun Tv Uk
+#EXTINF:-1 group-title="Gcdn.co",Sun TV 
 https://last.gcdn.co/IND284/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Gcdn.co",Discovery HD
@@ -315,16 +315,16 @@ https://last.gcdn.co/IND293/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gcdn.co",Raj Music
 https://last.gcdn.co/IND294/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Colors Tamil Uk
+#EXTINF:-1 group-title="Gcdn.co",Colors Tamil (2)
 https://last.gcdn.co/IND299/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Athithya
+#EXTINF:-1 group-title="Gcdn.co",Adithya TV
 https://last.gcdn.co/IND303/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Kalanigar
+#EXTINF:-1 group-title="Gcdn.co",Kalaignar TV
 https://last.gcdn.co/IND304/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Caption Tv
+#EXTINF:-1 group-title="Gcdn.co",Captain TV
 https://last.gcdn.co/IND305/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Gcdn.co",Sun Life
@@ -333,31 +333,31 @@ https://last.gcdn.co/IND307/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Gcdn.co",3 Tamil
 https://last.gcdn.co/IND309/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Vijay Tv3
+#EXTINF:-1 group-title="Gcdn.co",Star Vijay (3)
 https://last.gcdn.co/IND310/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Jaya Tv
+#EXTINF:-1 group-title="Gcdn.co",Jaya TV
 https://last.gcdn.co/IND312/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Gcdn.co",Jaya Max
 https://last.gcdn.co/IND313/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Murasu
+#EXTINF:-1 group-title="Gcdn.co",Murasu TV
 https://last.gcdn.co/IND321/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Pothikai
+#EXTINF:-1 group-title="Gcdn.co",DD Podhigai
 https://last.gcdn.co/IND323/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Chithram
+#EXTINF:-1 group-title="Gcdn.co",Chithiram
 https://last.gcdn.co/IND325/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",IsaiAruvi
+#EXTINF:-1 group-title="Gcdn.co",Isaiaruvi
 https://last.gcdn.co/IND327/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Chriboli
+#EXTINF:-1 group-title="Gcdn.co",Siripoli
 https://last.gcdn.co/IND329/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Gcdn.co",Kbo Tamil
+#EXTINF:-1 group-title="Gcdn.co",KBO Tamil
 https://last.gcdn.co/IND331/tracks-v1a1/mono.m3u8
 
 
