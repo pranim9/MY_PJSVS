@@ -253,10 +253,10 @@ https://yuppcatchup.akamaized.net/preview/ktvhd/master.m3u8
 
 #########################--208.86.19.21-#################################
 
-#EXTINF:-1 group-title="208.86.19.21",,Zee Bollywood
+#EXTINF:-1 group-title="Extra",Zee Bollywood
 http://208.86.19.21:80/701.stream/index.m3u8
 
-#EXTINF:-1 group-title="208.86.19.21",Sony SAB HD
+#EXTINF:-1 group-title="Extra",Sony SAB HD
 http://208.86.19.21:80/702.stream/index.m3u8
 
 #EXTINF:-1 group-title="208.86.19.21",&Tv
